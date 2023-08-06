@@ -1,7 +1,20 @@
 ![](assets/Bottom_up.svg)
 
+![](assets/header.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋++Hi~,+I+am+Jiarui+Xu~;+Welcome+to+my+profile!;Master's+degree+of+Data+Science.;Machine+learning+specialization.+;Python+programming+enthusiast.+;Patience+and+persistence.)](https://git.io/typing-svg)
+
+```mermaid
+graph TD;
+    Domain-Knowledge-->Machine-Learning;
+    Machine-Learning-->Statistical-Learning;
+    Machine-Learning-->Deep-Learning;
+    Domain-Knowledge-->Software-Development;
+    Deep-Learning-->Computer-Vision;
+    Deep-Learning-->Natural-Language-Processing;
+    Deep-Learning-->Multimodality;
+   ```
 
 | Properties                                        | Skills|
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,3 +28,10 @@
 | **Deep Learning Frameworks** |  ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
 | **Visualization techniques**| ![Tableau](https://img.shields.io/badge/-Tableau-2088FF?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-2088FF?style=flat&logo=powerbi&logoColor=white) ![D3](https://img.shields.io/badge/-D3.js%20-2088FF?style=flat&logo=d3.js&logoColor=white) ![Tulip](https://img.shields.io/badge/-Tulip%20-2088FF?style=flat&logo=Tulip&logoColor=white) ![yEd](https://img.shields.io/badge/-yEd%20-2088FF?style=flat&logo=yEd&logoColor=white) ![Gephi](https://img.shields.io/badge/-Gephi%20-2088FF?style=flat&logo=Gephid&logoColor=white)
 
+## 📫 How to Reach me:
+<p align="left">
+<a href="https://www.linkedin.com/in/jiarui-xu-xavierspycy98" target="blank"><img align="center" src="assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:jixu9182@uni.sydney.edu.au" target="blank"><img align="center" src="assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+</p>
+
+## Thank you for visiting :heart:
