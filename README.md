@@ -31,27 +31,27 @@ graph TD;
 ## Certification:
 ![Coursera](https://img.shields.io/badge/Coursera-F9AB00?style=for-the-badge&logo=Coursera&color=525252)
 
-**Mathematics for Machine Learning and Data Science Specialization** - Coursera, Aug 2023- [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/UJQNSGBXB4FL)
+**Mathematics for Machine Learning and Data Science Specialization** - DeepLearning.AI, Aug 2023- [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/UJQNSGBXB4FL)
 
-**Applied Data Science with Python Specialization** - Coursera, Jul 2023 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/S77MYG6WQCUS)
+**Applied Data Science with Python Specialization** - University of Michigan, Jul 2023 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/S77MYG6WQCUS)
 
-**Machine Learning Specialization** - Coursera, Jul 2023 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/GVJJK3HZRSLZ)
+**Machine Learning Specialization** - DeepLearning.AI, Stanford University, Jul 2023 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/GVJJK3HZRSLZ)
 
-**Mathematics for Machine Learning Specialization** - Coursera, Jun 2023 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/UHPTL6AM2WHK)
+**Mathematics for Machine Learning Specialization** - Imperial College London, Jun 2023 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/UHPTL6AM2WHK)
 
-**Expressway to Data Science: Python Programming Specialization** - Coursera, Dec 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/D9N32LL56ZE8)
+**Expressway to Data Science: Python Programming Specialization** - University of Colorado Boulder, Dec 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/D9N32LL56ZE8)
 
-**Python 3 Programming Specializationn** - Coursera, Dec 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/5ZZC4LJULZ83)
+**Python 3 Programming Specializationn** - University of Michigan, Dec 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/5ZZC4LJULZ83)
 
-**Introduction to Scripting in Python Specializationn** - Coursera, Nov 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/KN3NPRDUTAFG)
+**Introduction to Scripting in Python Specializationn** - Rice University, Nov 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/KN3NPRDUTAFG)
 
-**Statistics with Python Specialization** - Coursera, Nov 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/2GDKV3UYSTNU)
+**Statistics with Python Specialization** - University of Michigan, Nov 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/2GDKV3UYSTNU)
 
-**Excel Skills for Data Analytics and Visualization Specialization** - Coursera, Oct 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/R9Y9AFUZURMK)
+**Excel Skills for Data Analytics and Visualization Specialization** - Macquarie University, Oct 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/R9Y9AFUZURMK)
 
-**Python for Everybody Specialization** - Coursera, Oct 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/P2L44FCJR9V6))
+**Python for Everybody Specialization** - University of Michigan, Oct 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/P2L44FCJR9V6))
 
-**Excel Skills for Business Specialization** - Coursera, Sep 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/PKTDSLULS3SB)
+**Excel Skills for Business Specialization** - Macquarie University, Sep 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/PKTDSLULS3SB)
 
 
 ## How to Reach me:
