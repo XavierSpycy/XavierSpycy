@@ -35,8 +35,6 @@ graph TD;
 
 **Applied Data Science with Python Specialization** - University of Michigan, Jul 2023 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/S77MYG6WQCUS)
 
-**Applied Data Science with Python Specialization** - University of Michigan, Jul 2023 - [![Badge](assets/Applied_Data_Science_with_Python)](https://www.coursera.org/account/accomplishments/specialization/certificate/S77MYG6WQCUS)
-
 **Machine Learning Specialization** - DeepLearning.AI, Stanford University, Jul 2023 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/GVJJK3HZRSLZ)
 
 **Mathematics for Machine Learning Specialization** - Imperial College London, Jun 2023 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/UHPTL6AM2WHK)
@@ -55,6 +53,7 @@ graph TD;
 
 **Excel Skills for Business Specialization** - Macquarie University, Sep 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/PKTDSLULS3SB)
 
+![Wall](assets/wall_Aug_23.jpg)
 
 ## How to Reach me:
 <p align="left">
