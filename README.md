@@ -28,10 +28,36 @@ graph TD;
 | **Deep Learning Frameworks** |  ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
 | **Visualization techniques**| ![Tableau](https://img.shields.io/badge/-Tableau-2088FF?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-2088FF?style=flat&logo=powerbi&logoColor=white) ![D3](https://img.shields.io/badge/-D3.js%20-2088FF?style=flat&logo=d3.js&logoColor=white) ![Tulip](https://img.shields.io/badge/-Tulip%20-2088FF?style=flat&logo=Tulip&logoColor=white) ![yEd](https://img.shields.io/badge/-yEd%20-2088FF?style=flat&logo=yEd&logoColor=white) ![Gephi](https://img.shields.io/badge/-Gephi%20-2088FF?style=flat&logo=Gephid&logoColor=white)
 
-## 📫 How to Reach me:
+## Certification:
+![Coursera](https://img.shields.io/badge/Coursera-F9AB00?style=for-the-badge&logo=Coursera&color=525252)
+
+**Mathematics for Machine Learning and Data Science Specialization** - Coursera, Aug 2023- ![Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/UJQNSGBXB4FL)
+
+**Applied Data Science with Python Specialization** - Coursera, Jul 2023 - ![Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/S77MYG6WQCUS)
+
+**Machine Learning Specialization** - Coursera, Jul 2023 - ![Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/GVJJK3HZRSLZ)
+
+**Mathematics for Machine Learning Specialization** - Coursera, Jun 2023 - ![Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/UHPTL6AM2WHK)
+
+**Expressway to Data Science: Python Programming Specialization** - Coursera, Dec 2022 - ![Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/D9N32LL56ZE8)
+
+**Python 3 Programming Specializationn** - Coursera, Dec 2022 - ![Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/5ZZC4LJULZ83)
+
+**Introduction to Scripting in Python Specializationn** - Coursera, Nov 2022 - ![Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/KN3NPRDUTAFG)
+
+**Statistics with Python Specialization** - Coursera, Nov 2022 - ![Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/2GDKV3UYSTNU)
+
+**Excel Skills for Data Analytics and Visualization Specialization** - Coursera, Oct 2022 - ![Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/R9Y9AFUZURMK)
+
+**Python for Everybody Specialization** - Coursera, Oct 2022 - ![Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/P2L44FCJR9V6))
+
+**Excel Skills for Business Specialization** - Coursera, Sep 2022 - ![Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/PKTDSLULS3SB)
+
+
+## How to Reach me:
 <p align="left">
-<a href="https://www.linkedin.com/in/jiarui-xu-xavierspycy98" target="blank"><img align="center" src="assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:jixu9182@uni.sydney.edu.au" target="blank"><img align="center" src="assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/jiarui-xu-xavierspycy98" target="blank"><img align="center" src="assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 </p>
 
 ## Thank you for visiting :heart:
