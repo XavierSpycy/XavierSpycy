@@ -49,11 +49,14 @@ graph TD;
 
 **Excel Skills for Data Analytics and Visualization Specialization** - Macquarie University, Oct 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/R9Y9AFUZURMK)
 
-**Python for Everybody Specialization** - University of Michigan, Oct 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/P2L44FCJR9V6))
+**Python for Everybody Specialization** - University of Michigan, Oct 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/P2L44FCJR9V6)
 
 **Excel Skills for Business Specialization** - Macquarie University, Sep 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/PKTDSLULS3SB)
 
 ![Wall](assets/wall_Aug_23.jpg)
+
+## Personal Curriculum Vitae
+[English](assets/Jiarui_Xu_cv.pdf) | [中文版]
 
 ## How to Reach me:
 <p align="left">
