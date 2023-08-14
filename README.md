@@ -29,7 +29,7 @@ graph TD;
 | **Visualization techniques**| ![Tableau](https://img.shields.io/badge/-Tableau-2088FF?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-2088FF?style=flat&logo=powerbi&logoColor=white) ![D3](https://img.shields.io/badge/-D3.js%20-2088FF?style=flat&logo=d3.js&logoColor=white) ![Tulip](https://img.shields.io/badge/-Tulip%20-2088FF?style=flat&logo=Tulip&logoColor=white) ![yEd](https://img.shields.io/badge/-yEd%20-2088FF?style=flat&logo=yEd&logoColor=white) ![Gephi](https://img.shields.io/badge/-Gephi%20-2088FF?style=flat&logo=Gephid&logoColor=white)
 
 ## Deep Learning Projects
-### Project 1: Multilayer Perceptron
+### 1. Multilayer Perceptron
 
 This project embodies a robust implementation of multilayer perceptron classifiers, entirely built upon the powerful NumPy library. As of now, certain functionalities of our multilayer perceptron have yet to be tested due to the specificity of the task from which the code was initially derived. Nevertheless, we have successfully demonstrated its efficacy in our own unique task. Moving forward, our primary objective is to gradually enhance our model's versatility, ensuring it operates optimally across a diverse array of use cases.
 
@@ -80,7 +80,7 @@ We provide an exemplary demonstration of how our multilayer perceptron classifie
   PyTorch Implementation
 </div>
 
-### Project 2: EMNIST Handwritten Character Classification
+### 2. EMNIST Handwritten Character Classification
 This project aims to reproduce various convolutional neural networks and adapt them to our specific requirements. We have implemented these models using the PyTorch deep learning framework. To optimize the model performance, we employed random search algorithms to find the best hyperparameter combinations. Additionally, we utilized augmentation techniques based on relevant research papers during the training process to enhance the model's robustness.
 
 Due to limited computational resources, we trained our models on a subset of the original datasets, which accounted for approximately 12% of the data. Surprisingly, our pre-trained models demonstrated remarkable generalization capabilities. During testing on the entire dataset, they exhibited excellent performance, showcasing their ability to achieve similar results when trained on just 10% of the data as compared to training on 100%.
@@ -170,14 +170,14 @@ Moreover, our models have proven to be transferable to downstream tasks, such as
 </div>
 
 <p align="center">
-  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/EMNIST_Handwritten_Character_Recognition/outcomes/predictions.png">
+  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/EMNIST_Handwritten_Character_Recognition/outcomes/predictions_short.png">
 </p>
 <div align="center" style="font-weight: bold;">
   Effects of one model
 </div>
 
 
-### Project 3: Multi-label Image-text Classification
+### 3. Multi-label Image-text Classification
 This project involves a multi-label multi-classification problem. We deployed four pre-trained image models and two pre-trained text models. To enhance performance, we developed 12 multi-modal models using self-attention and cross-attention mechanisms. The project poster showcases some valuable techniques and intriguing discoveries.
 
 <p align="center">
@@ -215,7 +215,7 @@ This project involves a multi-label multi-classification problem. We deployed fo
 ![Wall](assets/wall_Aug_23.jpg)
 
 ## Personal Curriculum Vitae
-[English](assets/Jiarui_Xu_cv.pdf) | [中文版]
+[English](assets/Jiarui_Xu_cv.pdf) | [中文版]()
 
 ## How to Reach me:
 <p align="left">
