@@ -28,6 +28,165 @@ graph TD;
 | **Deep Learning Frameworks** |  ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
 | **Visualization techniques**| ![Tableau](https://img.shields.io/badge/-Tableau-2088FF?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-2088FF?style=flat&logo=powerbi&logoColor=white) ![D3](https://img.shields.io/badge/-D3.js%20-2088FF?style=flat&logo=d3.js&logoColor=white) ![Tulip](https://img.shields.io/badge/-Tulip%20-2088FF?style=flat&logo=Tulip&logoColor=white) ![yEd](https://img.shields.io/badge/-yEd%20-2088FF?style=flat&logo=yEd&logoColor=white) ![Gephi](https://img.shields.io/badge/-Gephi%20-2088FF?style=flat&logo=Gephid&logoColor=white)
 
+## Deep Learning Projects
+### Project 1: Multilayer Perceptron
+
+This project embodies a robust implementation of multilayer perceptron classifiers, entirely built upon the powerful NumPy library. As of now, certain functionalities of our multilayer perceptron have yet to be tested due to the specificity of the task from which the code was initially derived. Nevertheless, we have successfully demonstrated its efficacy in our own unique task. Moving forward, our primary objective is to gradually enhance our model's versatility, ensuring it operates optimally across a diverse array of use cases.
+
+We provide an exemplary demonstration of how our multilayer perceptron classifiers can be utilized. If you have tasks that align with ours, you can effortlessly tailor our model to your specific needs. On the other hand, if your tasks diverge from ours and our code fails to perform as expected, we encourage you to delve into our multilayer perceptron source code and adjust it to suit your requirements.
+
+<div align="center">
+<table style="text-align: center;">
+  <caption>Comparison between my implementation and PyTorch implementation</caption>
+  <tr>
+    <td colspan="2"></td>
+    <td align="center">My Implementation</td>
+    <td align="center">PyTorch Implementation</td>
+  </tr>
+  <tr>
+    <td align="center" rowspan="2">Accuracy</td>
+    <td align="center">On training set</td>
+    <td align="center">41.21%</td>
+    <td align="center">47.25%</td>
+  </tr>
+  <tr>
+    <td align="center">On validation set</td>
+    <td align="center">40.62%</td>
+    <td align="center">45.58%</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">Number of epochs</td>
+    <td align="center" colspan="2">500</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">Training time</td>
+    <td align="center">5'25"</td>
+    <td align="center">21'11"</td>
+  </tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multilayer_Perceptron_from_Scratch/outcomes/myimplementation.png">
+</p>
+<div align="center" style="font-weight: bold;">
+  My Implementation
+</div>
+
+<p align="center">
+  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multilayer_Perceptron_from_Scratch/outcomes/pytorch.png">
+</p>
+<div align="center" style="font-weight: bold;">
+  PyTorch Implementation
+</div>
+
+### Project 2: EMNIST Handwritten Character Classification
+This project aims to reproduce various convolutional neural networks and adapt them to our specific requirements. We have implemented these models using the PyTorch deep learning framework. To optimize the model performance, we employed random search algorithms to find the best hyperparameter combinations. Additionally, we utilized augmentation techniques based on relevant research papers during the training process to enhance the model's robustness.
+
+Due to limited computational resources, we trained our models on a subset of the original datasets, which accounted for approximately 12% of the data. Surprisingly, our pre-trained models demonstrated remarkable generalization capabilities. During testing on the entire dataset, they exhibited excellent performance, showcasing their ability to achieve similar results when trained on just 10% of the data as compared to training on 100%.
+
+Moreover, our models have proven to be transferable to downstream tasks, such as the MNIST datasets. By employing the architectures we implemented, we were able to attain an accuracy of over 99% on both the PyTorch and Kaggle MNIST datasets. Furthermore, by partially utilizing the trained parameters and unfreezing the parameters of the fully connected layers, we achieved an impressive accuracy of over 95%.
+
+<div align="center">
+<table style="text-align: center;">
+  <caption>Performance of different CNNs on the training set</caption>
+  <tr>
+    <td></td>
+    <td align="center">AlexNet</td>
+    <td align="center">VGGNet</td>
+    <td align="center">SpinalNet</td>
+    <td align="center">ResNet</td>
+  </tr>
+  <tr>
+    <td align="center">Accuracy</td>
+    <td align="center">87.95%</td>
+    <td align="center">89.80%</td>
+    <td align="center">87.15%</td>
+    <td align="center">89.28%</td>
+  </tr>
+  <tr>
+    <td align="center">Precision</td>
+    <td align="center">87.62%</td>
+    <td align="center">90.01%</td>
+    <td align="center">86.18%</td>
+    <td align="center">89.24%</td>
+  </tr>
+  <tr>
+    <td align="center">Recall</td>
+    <td align="center">87.95%</td>
+    <td align="center">89.80%</td>
+    <td align="center">87.15%</td>
+    <td align="center">89.28%</td>
+  </tr>
+  <tr>
+    <td align="center">F1 score</td>
+    <td align="center">86.59%</td>
+    <td align="center">88.42%</td>
+    <td align="center">85.28%</td>
+    <td align="center">88.30%</td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table style="text-align: center;">
+  <caption>Performance of different CNNs on the test set</caption>
+  <tr>
+    <td></td>
+    <td align="center">AlexNet</td>
+    <td align="center">VGGNet</td>
+    <td align="center">SpinalNet</td>
+    <td align="center">ResNet</td>
+  </tr>
+  <tr>
+    <td align="center">Accuracy</td>
+    <td align="center">86.96%</td>
+    <td align="center">87.24%</td>
+    <td align="center">85.92%</td>
+    <td align="center">86.88%</td>
+  </tr>
+  <tr>
+    <td align="center">Precision</td>
+    <td align="center">85.55%</td>
+    <td align="center">86.43%</td>
+    <td align="center">85.92%</td>
+    <td align="center">86.88%</td>
+  </tr>
+  <tr>
+    <td align="center">Recall</td>
+    <td align="center">86.96%</td>
+    <td align="center">87.24%</td>
+    <td align="center">85.92%</td>
+    <td align="center">86.88%</td>
+  </tr>
+  <tr>
+    <td align="center">F1 score</td>
+    <td align="center">85.58%</td>
+    <td align="center">85.66%</td>
+    <td align="center">84.07%</td>
+    <td align="center">85.68%</td>
+  </tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/EMNIST_Handwritten_Character_Recognition/outcomes/predictions.png">
+</p>
+<div align="center" style="font-weight: bold;">
+  Effects of one model
+</div>
+
+
+### Project 3: Multi-label Image-text Classification
+This project involves a multi-label multi-classification problem. We deployed four pre-trained image models and two pre-trained text models. To enhance performance, we developed 12 multi-modal models using self-attention and cross-attention mechanisms. The project poster showcases some valuable techniques and intriguing discoveries.
+
+<p align="center">
+  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multi-Modal_Classifier_for_Text-Image_Classification/outcomes/poster.jpg">
+</p>
+<div align="center" style="font-weight: bold;">
+  Project Poster
+</div>
+
 ## Certification:
 ![Coursera](https://img.shields.io/badge/Coursera-F9AB00?style=for-the-badge&logo=Coursera&color=525252)
 
