@@ -181,7 +181,7 @@ Moreover, our models have proven to be transferable to downstream tasks, such as
 This project involves a multi-label multi-classification problem. We deployed four pre-trained image models and two pre-trained text models. To enhance performance, we developed 12 multi-modal models using self-attention and cross-attention mechanisms. The project poster showcases some valuable techniques and intriguing discoveries.
 
 <p align="center">
-  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multi-Modal_Classifier_for_Text-Image_Classification/outcomes/CAT-1.jpeg">
+  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multi-Modal_Classifier_for_Text-Image_Classification/outcomes/CAT-2.jpeg">
 </p>
 <div align="center" style="font-weight: bold;">
   The CAT model architecture
