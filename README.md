@@ -177,18 +177,18 @@ Moreover, our models have proven to be transferable to downstream tasks, such as
 </div>
 
 
-### 3. [Multi-label Image-text Classification](https://github.com/XavierSpycy/Deep-Learning/tree/main/Multi-Modal_Classifier_for_Text-Image_Classification)
+### 3. [CAT - A Visual Text Multimodal Classifier](https://github.com/XavierSpycy/CAT-ImageTextIntegrator)
 This project involves a multi-label multi-classification problem. We deployed four pre-trained image models and two pre-trained text models. To enhance performance, we developed 12 multi-modal models using self-attention and cross-attention mechanisms. The project poster showcases some valuable techniques and intriguing discoveries.
 
 <p align="center">
-  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multi-Modal_Classifier_for_Text-Image_Classification/outcomes/CAT-2.jpeg">
+  <img src="https://github.com/XavierSpycy/CAT-ImageTextIntegrator/blob/main/outcomes/CAT-2.jpeg">
 </p>
 <div align="center" style="font-weight: bold;">
   The CAT model architecture
 </div>
 
 <p align="center">
-  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multi-Modal_Classifier_for_Text-Image_Classification/outcomes/poster.jpg">
+  <img src="https://github.com/XavierSpycy/CAT-ImageTextIntegrator/blob/main/outcomes/poster.jpg">
 </p>
 <div align="center" style="font-weight: bold;">
   Project Poster
