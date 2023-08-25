@@ -197,6 +197,8 @@ This project involves a multi-label multi-classification problem. We deployed fo
 ## Certification:
 ![Coursera](https://img.shields.io/badge/Coursera-F9AB00?style=for-the-badge&logo=Coursera&color=525252)
 
+**Deep Learning Specialization** - DeepLearning.AI, Aug 2023- [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/MCHWQ64ZN86Q)
+
 **Mathematics for Machine Learning and Data Science Specialization** - DeepLearning.AI, Aug 2023- [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/UJQNSGBXB4FL)
 
 **Applied Data Science with Python Specialization** - University of Michigan, Jul 2023 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/S77MYG6WQCUS)
@@ -219,7 +221,8 @@ This project involves a multi-label multi-classification problem. We deployed fo
 
 **Excel Skills for Business Specialization** - Macquarie University, Sep 2022 - [Badge](https://www.coursera.org/account/accomplishments/specialization/certificate/PKTDSLULS3SB)
 
-![Wall](assets/wall_Aug_23.jpg)
+![Wall](assets/wall_Aug_23_1.jpg)
+![Wall](assets/wall_Aug_23_2.jpg)
 
 ## Personal Curriculum Vitae
 [English](assets/Jiarui_Xu_cv.pdf) | [中文版]()
