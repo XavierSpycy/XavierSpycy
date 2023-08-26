@@ -29,7 +29,7 @@ graph TD;
 | **Visualization techniques**| ![Tableau](https://img.shields.io/badge/-Tableau-2088FF?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-2088FF?style=flat&logo=powerbi&logoColor=white) ![D3](https://img.shields.io/badge/-D3.js%20-2088FF?style=flat&logo=d3.js&logoColor=white) ![Tulip](https://img.shields.io/badge/-Tulip%20-2088FF?style=flat&logo=Tulip&logoColor=white) ![yEd](https://img.shields.io/badge/-yEd%20-2088FF?style=flat&logo=yEd&logoColor=white) ![Gephi](https://img.shields.io/badge/-Gephi%20-2088FF?style=flat&logo=Gephid&logoColor=white)
 
 ## Deep Learning Projects
-### 1. [Multilayer Perceptron from Scratch using NumPy](https://github.com/XavierSpycy/Deep-Learning/tree/main/Multilayer_Perceptron_from_Scratch)
+### 1. [Multilayer Perceptron from Scratch using NumPy](https://github.com/XavierSpycy/NumPyMultilayerPerceptron)
 
 This project embodies a robust implementation of multilayer perceptron classifiers, entirely built upon the powerful NumPy library. We have successfully demonstrated its efficacy in our own unique task. Moving forward, our primary objective is to gradually enhance our model's versatility, ensuring it operates optimally across a diverse array of use cases.
 
@@ -51,7 +51,7 @@ mlp.compile(optimizer='Adam',
 mlp.fit(X, y, epochs=80)
 ```
 <p align="center">
-  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multilayer_Perceptron_from_Scratch/outcomes/toy_loss.png">
+  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/outcomes/toy_loss.png">
 </p>
 <div align="center" style="font-weight: bold;">
   Loss
@@ -59,7 +59,7 @@ mlp.fit(X, y, epochs=80)
 
 - Great results
 <p align="center">
-  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multilayer_Perceptron_from_Scratch/outcomes/toy_decision_boundary.png">
+  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/outcomes/toy_decision_boundary.png">
 </p>
 <div align="center" style="font-weight: bold;">
   Decision boundary
