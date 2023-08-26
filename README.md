@@ -29,55 +29,40 @@ graph TD;
 | **Visualization techniques**| ![Tableau](https://img.shields.io/badge/-Tableau-2088FF?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-2088FF?style=flat&logo=powerbi&logoColor=white) ![D3](https://img.shields.io/badge/-D3.js%20-2088FF?style=flat&logo=d3.js&logoColor=white) ![Tulip](https://img.shields.io/badge/-Tulip%20-2088FF?style=flat&logo=Tulip&logoColor=white) ![yEd](https://img.shields.io/badge/-yEd%20-2088FF?style=flat&logo=yEd&logoColor=white) ![Gephi](https://img.shields.io/badge/-Gephi%20-2088FF?style=flat&logo=Gephid&logoColor=white)
 
 ## Deep Learning Projects
-### 1. [Multilayer Perceptron](https://github.com/XavierSpycy/Deep-Learning/tree/main/Multilayer_Perceptron_from_Scratch)
+### 1. [Multilayer Perceptron from Scratch using NumPy](https://github.com/XavierSpycy/Deep-Learning/tree/main/Multilayer_Perceptron_from_Scratch)
 
-This project embodies a robust implementation of multilayer perceptron classifiers, entirely built upon the powerful NumPy library. As of now, certain functionalities of our multilayer perceptron have yet to be tested due to the specificity of the task from which the code was initially derived. Nevertheless, we have successfully demonstrated its efficacy in our own unique task. Moving forward, our primary objective is to gradually enhance our model's versatility, ensuring it operates optimally across a diverse array of use cases.
+This project embodies a robust implementation of multilayer perceptron classifiers, entirely built upon the powerful NumPy library. We have successfully demonstrated its efficacy in our own unique task. Moving forward, our primary objective is to gradually enhance our model's versatility, ensuring it operates optimally across a diverse array of use cases.
 
-We provide an exemplary demonstration of how our multilayer perceptron classifiers can be utilized. If you have tasks that align with ours, you can effortlessly tailor our model to your specific needs. On the other hand, if your tasks diverge from ours and our code fails to perform as expected, we encourage you to delve into our multilayer perceptron source code and adjust it to suit your requirements.
-
-<div align="center">
-<table style="text-align: center;">
-  <caption>Comparison between my implementation and PyTorch implementation</caption>
-  <tr>
-    <td colspan="2"></td>
-    <td align="center">My Implementation</td>
-    <td align="center">PyTorch Implementation</td>
-  </tr>
-  <tr>
-    <td align="center" rowspan="2">Accuracy</td>
-    <td align="center">On training set</td>
-    <td align="center">41.21%</td>
-    <td align="center">47.25%</td>
-  </tr>
-  <tr>
-    <td align="center">On validation set</td>
-    <td align="center">40.62%</td>
-    <td align="center">45.58%</td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">Number of epochs</td>
-    <td align="center" colspan="2">500</td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">Training time</td>
-    <td align="center">5'25"</td>
-    <td align="center">21'11"</td>
-  </tr>
-</table>
-</div>
-
+Advantages of our implementation:
+- Easy to construct:
+```python
+layers = [
+    Dense(2, 4, activation='leaky_relu', init='kaiming_normal', init_params={'mode': 'out'}),
+    Dense(4, 3, activation='hardswish', init='xavier_normal'),
+    Dense(3, 2, activation='relu', init='kaiming_normal', init_params={'mode': 'in'}),
+    Dense(2, 1, activation='tanh', init='xavier_uniform')
+]
+mlp = MultilayerPerceptron(layers)
+```
+- Easy and stable to train
+```python
+mlp.compile(optimizer='Adam',
+            loss='MeanSquareError')
+mlp.fit(X, y, epochs=80)
+```
 <p align="center">
-  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multilayer_Perceptron_from_Scratch/outcomes/myimplementation.png">
+  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multilayer_Perceptron_from_Scratch/outcomes/toy_loss.png">
 </p>
 <div align="center" style="font-weight: bold;">
-  My Implementation
+  Loss
 </div>
 
+- Great results
 <p align="center">
-  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multilayer_Perceptron_from_Scratch/outcomes/pytorch.png">
+  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/Multilayer_Perceptron_from_Scratch/outcomes/toy_decision_boundary.png">
 </p>
 <div align="center" style="font-weight: bold;">
-  PyTorch Implementation
+  Decision boundary
 </div>
 
 ### 2. [EMNIST Handwritten Character Classification](https://github.com/XavierSpycy/Deep-Learning/tree/main/EMNIST_Handwritten_Character_Recognition)
