@@ -65,7 +65,7 @@ mlp.fit(X, y, epochs=80)
   Decision boundary
 </div>
 
-### 2. [EMNIST Handwritten Character Classification](https://github.com/XavierSpycy/Deep-Learning/tree/main/EMNIST_Handwritten_Character_Recognition)
+### 2. [EMNIST Handwritten Character Classification](https://github.com/XavierSpycy/EMNIST-Classifier)
 This project aims to reproduce various convolutional neural networks and adapt them to our specific requirements. We have implemented these models using the PyTorch deep learning framework. To optimize the model performance, we employed random search algorithms to find the best hyperparameter combinations. Additionally, we utilized augmentation techniques based on relevant research papers during the training process to enhance the model's robustness.
 
 Due to limited computational resources, we trained our models on a subset of the original datasets, which accounted for approximately 12% of the data. Surprisingly, our pre-trained models demonstrated remarkable generalization capabilities. During testing on the entire dataset, they exhibited excellent performance, showcasing their ability to achieve similar results when trained on just 10% of the data as compared to training on 100%.
@@ -155,7 +155,7 @@ Moreover, our models have proven to be transferable to downstream tasks, such as
 </div>
 
 <p align="center">
-  <img src="https://github.com/XavierSpycy/Deep-Learning/blob/main/EMNIST_Handwritten_Character_Recognition/outcomes/predictions_short.png">
+  <img src="https://github.com/XavierSpycy/EMNIST-Classifier/blob/main/outputs/predictions_short.png">
 </p>
 <div align="center" style="font-weight: bold;">
   Effects of one model
