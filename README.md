@@ -65,6 +65,31 @@ mlp.fit(X, y, epochs=80)
   Decision boundary
 </div>
 
+- Capability of dealing with complex datasets (10 classes, 128 features, 50,000 samples)
+<p align="center">
+  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/outcomes/10classes.png">
+</p>
+<div align="center" style="font-weight: bold;">
+  Smooth optimization procedure in 600 epochs
+</div>
+
+The architecture of this model is:
+```python
+layers = [
+    Dense(128, 96, activation='elu', init='xavier_uniform'),
+    Dense(96, 64, activation='elu', init='xavier_uniform'),
+    Dense(64, 48, activation='elu', init='xavier_uniform'),
+    Dense(48, 32, activation='elu', init='xavier_uniform'),
+    Dense(32, 24, activation='elu', init='xavier_uniform'),
+    Dense(24, 16, activation='elu', init='xavier_uniform'),
+    Dense(16, 10, activation='softmax', init='xavier_uniform')
+]
+mlp = MultilayerPerceptron(layers)
+mlp.compile(optimizer=Adam(lr=2e-6, weight_decay=0.02),
+            loss='CrossEntropy')
+mlp.fit(X_train, y_train, epochs=600, batch_size=32)
+```
+
 ### 2. [EMNIST Handwritten Character Classification](https://github.com/XavierSpycy/EMNIST-Classifier)
 This project aims to reproduce various convolutional neural networks and adapt them to our specific requirements. We have implemented these models using the PyTorch deep learning framework. To optimize the model performance, we employed random search algorithms to find the best hyperparameter combinations. Additionally, we utilized augmentation techniques based on relevant research papers during the training process to enhance the model's robustness.
 
