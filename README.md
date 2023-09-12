@@ -244,7 +244,7 @@ This project involves a multi-label multi-classification problem. We deployed fo
 ![Wall](assets/wall_Aug_23_2.jpg)
 
 ## Personal Curriculum Vitae
-[English](assets/Jiarui_Xu_cv.pdf) | [中文版]()
+[English](assets/Jiarui_Xu_CV.pdf) | [中文版]()
 
 ## How to Reach me:
 <p align="left">
