@@ -1,19 +1,22 @@
 ![](assets/Bottom_up.svg)
 
-![](assets/header.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+![](assets/chris-ried-python-crop.jpg)
+
+Photo by <a href="https://unsplash.com/@cdr6934?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Ried</a> on <a href="https://unsplash.com/photos/ieic5Tq8YMk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋++Hi~,+I+am+Jiarui+Xu~;+Welcome+to+my+profile!;Master's+degree+of+Data+Science.;Machine+learning+specialization.+;Python+programming+enthusiast.+;Patience+and+persistence.)](https://git.io/typing-svg)
 
 ```mermaid
 graph TD;
-    Domain-Knowledge-->Machine-Learning;
-    Machine-Learning-->Statistical-Learning;
-    Machine-Learning-->Deep-Learning;
-    Domain-Knowledge-->Software-Development;
-    Deep-Learning-->Computer-Vision;
-    Deep-Learning-->Natural-Language-Processing;
-    Deep-Learning-->Multimodality;
+    MyDomainKnowledge[My Domain Knowledge]-->MachineLearning[Machine Learning];
+    MachineLearning[Machine Learning]-->StatisticalLearning[Statistical Learning];
+    MachineLearning[Machine Learning]-->DeepLearning[Deep Learning];
+    MyDomainKnowledge[My Domain Knowledge]-->SoftwareDevelopment[Software Development];
+    DeepLearning[Deep Learning]-->ComputerVision[Computer Vision];
+    DeepLearning[Deep Learning]-->NaturalLanguageProcessing[Natural Language Processing];
+    DeepLearning[Deep Learning]-->Multimodality;
    ```
 
 | Properties                                        | Skills|
@@ -28,9 +31,15 @@ graph TD;
 | **Deep Learning Frameworks** |  ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
 | **Visualization techniques**| ![Tableau](https://img.shields.io/badge/-Tableau-2088FF?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-2088FF?style=flat&logo=powerbi&logoColor=white) ![D3](https://img.shields.io/badge/-D3.js%20-2088FF?style=flat&logo=d3.js&logoColor=white) ![Tulip](https://img.shields.io/badge/-Tulip%20-2088FF?style=flat&logo=Tulip&logoColor=white) ![yEd](https://img.shields.io/badge/-yEd%20-2088FF?style=flat&logo=yEd&logoColor=white) ![Gephi](https://img.shields.io/badge/-Gephi%20-2088FF?style=flat&logo=Gephid&logoColor=white)
 
-## Deep Learning Projects
-### 1. [Multilayer Perceptron from Scratch using NumPy](https://github.com/XavierSpycy/NumPyMultilayerPerceptron)
 
+## Deep Learning Projects
+
+<p align="center">
+  <img src="https://github.com/XavierSpycy/XavierSpycy/blob/main/assets/google-deepmind.jpg">
+</p>
+Photo by <a href="https://unsplash.com/@googledeepmind?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Google DeepMind</a> on <a href="https://unsplash.com/photos/LaKwLAmcnBc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+### 1. [Multilayer Perceptron from Scratch using NumPy](https://github.com/XavierSpycy/NumPyMultilayerPerceptron)
 This project embodies a robust implementation of multilayer perceptron classifiers, entirely built upon the powerful NumPy library. We have successfully demonstrated its efficacy in our own unique task. Moving forward, our primary objective is to gradually enhance our model's versatility, ensuring it operates optimally across a diverse array of use cases.
 
 Advantages of our implementation:
