@@ -60,7 +60,7 @@ mlp.compile(optimizer='Adam',
 mlp.fit(X, y, epochs=80)
 ```
 <p align="center">
-  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/outcomes/toy_loss.png">
+  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/toy_loss.png">
 </p>
 <div align="center" style="font-weight: bold;">
   Loss
@@ -68,7 +68,7 @@ mlp.fit(X, y, epochs=80)
 
 - Great results
 <p align="center">
-  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/outcomes/toy_decision_boundary.png">
+  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/toy_decision_boundary.png">
 </p>
 <div align="center" style="font-weight: bold;">
   Decision boundary
@@ -76,7 +76,7 @@ mlp.fit(X, y, epochs=80)
 
 - Capability of dealing with complex datasets (10 classes, 128 features, 50,000 samples)
 <p align="center">
-  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/outcomes/10classes.png">
+  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/10classes.png">
 </p>
 <div align="center" style="font-weight: bold;">
   Smooth optimization procedure in 600 epochs
