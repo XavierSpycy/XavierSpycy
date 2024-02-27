@@ -32,7 +32,7 @@ graph TD;
 | **Visualization techniques**| ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-FF6F00?style=flat&logo=powerbi&logoColor=white) ![D3](https://img.shields.io/badge/-D3.js%20-EEEE00?style=flat&logo=d3.js&logoColor=white) ![Tulip](https://img.shields.io/badge/-Tulip%20-00AA00?style=flat&logo=Tulip&logoColor=white) ![yEd](https://img.shields.io/badge/-yEd%20-00000FF?style=flat&logo=yEd&logoColor=white) ![Gephi](https://img.shields.io/badge/-Gephi%20-4F004F?style=flat&logo=Gephid&logoColor=white)
 
 ## Curriculum Vitae
-[English](assets/Jiarui_XU_CV.pdf) | [中文版](assets/Jiarui_XU_CV(zh_CN).pdf)
+[English](assets/Jiarui_XU_CV.pdf) | [中文版](assets/Jiarui_XU_CV__zh_CN_.pdf)
 
 ## Projects / Experience(s)
 - Currently working on : LLM Applications
