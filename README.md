@@ -16,7 +16,7 @@ graph TD;
     MachineLearning[Machine Learning]-->DeepLearning[Deep Learning];
     DomainKnowledge[Domain Knowledge]-->BackendDevelopment[Backend Development];
     DeepLearning[Deep Learning]-->ImageClassification[Image Classification];
-    ImageClassification[Image Classification]-->LabelNoise[LabelNoises];
+    ImageClassification[Image Classification]-->LabelNoise[Label Noise];
     DeepLearning[Deep Learning]-->NaturalLanguageProcessing[Natural Language Processing];
     NaturalLanguageProcessing[Natural Language Processing]-->TopicModeling[Topic Modeling];
     NaturalLanguageProcessing[Natural Language Processing]-->LLMApplication[LLM Application];
@@ -44,7 +44,7 @@ graph TD;
   <summary><h2>Experiences / Projects</h2></summary>
   <ul>
     <li>
-      Ressearch Interests : LLM Applications / Multimodal Learning
+      Ressearch Interests : LLM Applications / Multimodality Learning
     </li>
     <li>
       Research Experiences:
@@ -90,6 +90,7 @@ graph TD;
                 <li><a href="#star-emnist-handwritten-character-classification">Handwritten Character Recognition</a></li>
                 <li><a href="#star-cat">CAT: A Visual-Text Multimodal Classifier</a></li>
                 <li><a href="#star-noisy-labels">Robust Trainers for Noisy Labels</a></li>
+                <li><a href="#star-tabtransformers">TabTransformers: Transformers for Tabular Data</a></li>
                 <li><a href="#star-multiclip">MultiCLIP: Multimodal-Multilabel-Multistage Classification using Language Image Pre-training</a>
             </ul>
           </li>
@@ -480,7 +481,7 @@ exp.execute()</code></pre>
   </ul>
 </details>
 <details>
-  <summary>
+  <summary id="star-tabtransformers">
     <h3>
       🌟Transformers for Tabular Data<a href="https://github.com/XavierSpycy/tabtransformers">&#x2197;</a>
     </h3>
@@ -625,7 +626,7 @@ exp.execute()</code></pre>
   <details>
     <summary><h3>Credentials</h3></summary>
     <img src="assets/certificate-wall-2.jpg">
-    <img scr="assets/certificate-wall-1.jpg">
+    <img src="assets/certificate-wall-1.jpg">
   </details>
 </details>
 
@@ -647,4 +648,5 @@ exp.execute()</code></pre>
   </p>
 </details>
 
-## Thank you for visiting :heart:
+<hr style="width: 60%; margin: auto;">
+<h2 style="text-align: center;">Thank you for visiting ❤️</h2>
