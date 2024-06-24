@@ -22,7 +22,7 @@ graph TD;
     NaturalLanguageProcessing[Natural Language Processing]-->LLMApplication[LLM Application];
     DeepLearning[Deep Learning]-->Multimodality[Multimodality];
     Multimodality[Multimodality]-->ImageTextClassification[Image-Text Classification];
-    Multimodality[Multimodality]-->VisualQuestionAnswering[VisualQuestionAnswering];
+    Multimodality[Multimodality]-->VisualQuestionAnswering[Visual Question Answering];
    ```
 
 | Properties|Skills|
@@ -501,7 +501,7 @@ exp.execute()</code></pre>
     Diagrams of implementation:
   </p>
   <p align="center">
-    <img src="https://github.com/XavierSpycy/MultiCLIP/blob/main/figures/clip_router.jpg">
+    <img src="https://github.com/XavierSpycy/MultiCLIP/blob/main/figures/clip_router.png">
   </p>
   <div align="center" style="font-weight: bold">
     CLIP + Router
