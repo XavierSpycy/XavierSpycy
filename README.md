@@ -37,7 +37,7 @@ graph TD;
 | **Deep Learning Frameworks** |  ![PyTorch](http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-929292) |
 | **Visualization techniques**| ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-FF6F00?style=flat&logo=powerbi&logoColor=white) ![D3](https://img.shields.io/badge/-D3.js%20-EEEE00?style=flat&logo=d3.js&logoColor=white) ![Tulip](https://img.shields.io/badge/-Tulip%20-00AA00?style=flat&logo=Tulip&logoColor=white) ![yEd](https://img.shields.io/badge/-yEd%20-00000FF?style=flat&logo=yEd&logoColor=white) ![Gephi](https://img.shields.io/badge/-Gephi%20-4F004F?style=flat&logo=Gephid&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierSpycy&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierSpycy&layout=donut">
 
 ## Curriculum Vitae
 [English](assets/Jiarui_XU_CV.pdf) | [中文版](assets/Jiarui_XU_CV__zh_CN_.pdf)
