@@ -39,8 +39,11 @@ graph TD;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierSpycy&layout=donut">
 
-## Curriculum Vitae
-[English](assets/Jiarui_XU_CV.pdf) | [中文版](assets/Jiarui_XU_CV__zh_CN_.pdf)
+<details>
+  <summary><h2>Curriculum Vitae</h2></summary>
+    <a href="assets/Jiarui_XU_CV.pdf">English</a> | 
+    <a href="assets/Jiarui_XU_CV__zh_CN_.pdf">中文版</a>
+</details>
 
 <details>
   <summary><h2>Experiences / Projects</h2></summary>
