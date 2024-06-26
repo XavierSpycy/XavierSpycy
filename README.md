@@ -39,6 +39,8 @@ graph TD;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierSpycy&layout=donut">
 
+<img src="https://komarev.com/ghpvc/?username=XavierSpycy&color=blueviolet">
+
 <details>
   <summary><h2>Curriculum Vitae</h2></summary>
     <a href="assets/Jiarui_XU_CV.pdf">English</a> | 
