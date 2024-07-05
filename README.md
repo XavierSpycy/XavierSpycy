@@ -92,7 +92,7 @@ graph TD;
     <h2>🚀 Projects</h2>
   </summary>
   <details>
-    <summary><h3><img src="https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy"></h3></summary>
+    <summary><h3><img src="https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy">&#x2193;</h3></summary>
     <p align="center">
       <img src="assets/google-deepmind.jpg" width="500" height="auto">
     </p>
@@ -264,7 +264,7 @@ graph TD;
   </details>
   <details>
     <summary>
-      <h3><img src="http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000"></h3>
+      <h3><img src="http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000">&#x2193;</h3>
     </summary>
     <p align="center">
       <img src="assets/alex-knight-machinelearning.jpg" width="500" height="auto">
@@ -491,7 +491,7 @@ graph TD;
   </details>
   <details>
     <summary>
-      <h3><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00"></h3>
+      <h3><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00">&#x2193;</h3>
     </summary>
       <details>
         <summary>
@@ -501,7 +501,7 @@ graph TD;
   </details>
     <details>
     <summary>
-      <h3><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-929292"></h3>
+      <h3><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-929292">&#x2193;</h3>
     </summary>
         <p align="center">
           <img src="assets/growtika-f0JGorLOkw0-unsplash.jpg" width="500" height="auto">
