@@ -42,30 +42,32 @@ graph TD;
 <img src="https://komarev.com/ghpvc/?username=XavierSpycy&color=blueviolet">
 
 <details>
-  <summary><h2>Curriculum Vitae</h2></summary>
+  <summary><h2>📖 Curriculum Vitae</h2></summary>
+    <p>
     <a href="assets/Jiarui_XU_CV.pdf">English</a> | 
     <a href="assets/Jiarui_XU_CV__zh_CN_.pdf">中文版</a>
+    </p>
 </details>
 
 <details>
-  <summary><h2>Experiences / Projects</h2></summary>
+  <summary><h2>🌊 Experiences</h2></summary>
   <ul>
     <li>
       Ressearch Interests : LLM Applications / Multimodality Learning
     </li>
     <li>
-      Research Experiences:
-      <ul>
+      Research:
+      <ol>
+        <li>
+          Cross-modal medical image representation learning (<u><em>USYD Engineering VRI Scholarship</em></u>)
+        </li>
         <li>
           <em>Top</em>ic <em>M</em>odeling for the <em>E</em>volution through <em>D</em>escriptions of <em>A</em>pplications <em>L</em>ongitudina (<em>TopMEDAL</em>)
         </li>
-        <li>
-          Cross-modal medical image representation learning (<u><em>VRI Scholarship</em></u>)
-        </li>
-      </ul>
+      </ol>
     </li>
     <li>
-      Internship(s):
+      Internship:
       <ul>
         <li>
           <code>AIGC Algorithm Intern</code> @ <img src="https://img.shields.io/badge/FunPlus-orange?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNDAwLjAwMDAwMHB0IiBoZWlnaHQ9IjQwMC4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDQwMC4wMDAwMDAgNDAwLjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsNDAwLjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTAgMjAwMCBsMCAtMjAwMCAyMDAwIDAgMjAwMCAwIDAgMjAwMCAwIDIwMDAgLTIwMDAgMCAtMjAwMCAwIDAKLTIwMDB6IG0yODgyIDEyMDQgYzY3IC00NyA4OCAtOTggODggLTIxNyAwIC04NSAzIC0xMDMgMjEgLTEyOSAzMiAtNDQgNzUgLTU4CjE4MSAtNTggMTA3IDAgMTQ0IC0xNCAxOTIgLTczIDUzIC02NiA0OSAtMTgyIC0xMCAtMjQ3IC00NyAtNTIgLTEwNCAtNzAgLTIyMgotNzAgbC05NSAwIC0zMiAtMzUgYy0zMyAtMzQgLTMzIC0zNCAtMzYgLTE1NCAtNCAtMTE2IC01IC0xMjAgLTM1IC0xNTggLTUwCi02MiAtOTggLTg0IC0xNzAgLTgxIC03OCA1IC0xMjYgMzUgLTE2MCAxMDAgLTIwIDQwIC0yNCA2MSAtMjQgMTQzIDAgMTU3IC0yNQoxODUgLTE2NSAxODUgLTE4MiAwIC0yNjUgNjMgLTI2NyAyMDEgLTEgNTEgNCA2NyAyOCAxMDEgNTIgNzQgNzEgODIgMjAyIDg4CjEyNiA2IDE0OSAxNCAxODEgNTkgMTggMjUgMjEgNDQgMjEgMTMwIDAgMTEwIDE0IDE1MyA2MiAxOTggNjUgNjEgMTY4IDY4IDI0MAoxN3ogbS04NjEgLTQ0OSBjMyAtMiAtMiAtMzggLTEwIC03OSAtMTQgLTY3IC0xNCAtODEgMSAtMTQwIDggLTM2IDEzIC02OCAxMAotNzEgLTMgLTMgLTE3MSAtNSAtMzc0IC01IGwtMzcwIDAgLTI3IC0yOCBjLTI1IC0yNCAtMjggLTM3IC0zNCAtMTE3IC00IC01MAotMTMgLTE2NCAtMjEgLTI1NSAtMjAgLTIyMSAtNDMgLTQ3NyAtNjEgLTY4OSAtMTUgLTE3MCAtMTQgLTE3NCA1IC0yMDIgMTUKLTIwIDMyIC0zMCA2MyAtMzQgNjQgLTkgMTM1OSAtMSAxMzgwIDkgNDQgMjEgNDcgNDcgNDcgMzkxIGwwIDMyNyAzMyAtOSBjNDEKLTEwIDE3MSAtMTAgMjIwIDAgbDM4IDggLTMgLTM3OCAtMyAtMzc4IC0yOCAtNTcgYy0zNyAtNzUgLTk5IC0xMzggLTE3MiAtMTc0CmwtNjAgLTI5IC03NTkgLTMgYy04NTIgLTMgLTgyNSAtNSAtOTIzIDY5IC0xMDcgODAgLTE0MyAxNTkgLTE0MyAzMTIgMCA1NiA1CjE0MCAxMCAxODYgNSA0NyAxNCAxNDEgMjAgMjEwIDUgNzAgMTQgMTczIDIwIDIzMSA1IDU4IDE3IDE5MSAyNSAyOTUgMzIgMzc0CjQyIDQxMyAxMzUgNTA1IDUzIDU0IDExMSA4NSAxODMgOTkgNDQgOSA3OTAgMTUgNzk4IDZ6Ii8+CjwvZz4KPC9zdmc+Cg==">:
@@ -82,462 +84,493 @@ graph TD;
           </li>
         </ul>
       </ul>
-      <li>
-        Projects
-        <ul>
-          <li><a href="#numpy-based-projects">NumPy-Based Projects</a>
-            <ul>
-              <li><a href="#star-self-developed-library-using-numpy">Self-Developed Library</a></li>
-              <li><a href="#star-mlp">Multilayer Perceptron from Scratch</a></li>
-              <li><a href="#star-nmf">Non-negative Matrix  Factorization Implementation</a></li>
-            </ul>
-        </li>
-          <li><a href="#pytorch-based-projects">PyTorch-Based Projects</a>
-            <ul>
-                <li><a href="#star-emnist-handwritten-character-classification">Handwritten Character Recognition</a></li>
-                <li><a href="#star-cat">CAT: A Visual-Text Multimodal Classifier</a></li>
-                <li><a href="#star-noisy-labels">Robust Trainers for Noisy Labels</a></li>
-                <li><a href="#star-tabtransformers">TabTransformers: Transformers for Tabular Data</a></li>
-                <li><a href="#star-multiclip">MultiCLIP: Multimodal-Multilabel-Multistage Classification using Language Image Pre-training</a>
-            </ul>
-          </li>
-          <li><a href="#tensorflow-based-project">TensorFlow-Based Project</a>
-            <ul>
-              <li><a href="#star-tf2">Awesome Tutorials for TensorFlow2</a></li>
-            </ul>
-          </li>
-        </ul>
-      </li>
   </ul>
-</details>
-
-<details>
-  <summary id="numpy-based-projects"><h2>NumPy-Based Projects</h2></summary>
-  <img src="https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy">
-  <p align="center">
-    <img src="assets/google-deepmind.jpg">
-  </p>
-  <p>
-    Photo by <a href="https://unsplash.com/@googledeepmind?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Google DeepMind</a> on <a href="https://unsplash.com/photos/LaKwLAmcnBc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  </p>
-
-  <details>
-    <summary id="star-self-developed-library-using-numpy">
-      <h3>🌟Self-Developed Library using NumPy</h3><a href="https://github.com/XavierSpycy/MLForce">&#x2197;</a>
-    </summary>
-    <p>
-      My NumPy-based projects have been successfully integrated into my own open-source Python library, named <a href="https://pypi.org/project/mlforce/"><code>MLForce</code></a>. This library is also readily accessible on the <a href="https://pypi.org/project/mlforce">PyPI Community</a>.
-    </p>
-  </details>
-
-  <details>
-    <summary id="star-mlp">
-      <h3>🌟Multilayer Perceptron from Scratch using NumPy<a href="https://github.com/XavierSpycy/NumPyMultilayerPerceptron">&#x2197;</a></h3>
-      <p>
-    </summary>
-      A robust implementation of multilayer perceptrons, entirely built upon the powerful NumPy library.
-      </p>
-      <p>Advantages of our implementation:
-        <ul>
-          <li>
-            <details>
-              <summary>Easy to construct</summary>
-              <p>
-                <pre><code class="language-python">layers = [
-    Input(input_dim=2),
-    Dense(units=4, activation='leaky_relu', init='kaiming_normal', init_params={'mode': 'out'}),
-    Dense(units=3, activation='hardswish', init='xavier_normal'),
-    Dense(units=2, activation='relu', init='kaiming_normal', init_params={'mode': 'in'}),
-    Dense(units=1, activation='tanh', init='xavier_uniform')
-]
-mlp = MultilayerPerceptron(layers)</code></pre>
-              </p>
-            </details>
-          </li>
-          <li>
-            <details>
-              <summary>Easy and stable to train</summary>
-              <p>
-                <pre><code class="language-python">mlp.compile(optimizer='Adam',
-            metrics=['MeanSquareError'])
-mlp.fit(X, y, epochs=3, batch_size=8, use_progress_bar=True)</code></pre>
-              </p>
-              <p align="center">
-                <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/toy_loss.png">
-              </p>
-              <div align="center" style="font-weight: bold;">
-                Loss
-              </div>
-            </details>
-          </li>
-          <li>
-            <details>
-              <summary>
-                Great results
-              </summary>
-              <p align="center">
-                <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/toy_decision_boundary.png">
-              </p>
-              <div align="center" style="font-weight: bold;">
-                Decision boundary
-              </div>
-            </details>
-          </li>
-          <li>
-            <details>
-              <summary>
-                Capability of dealing with complex datasets (10 classes, 128 features, 50,000 samples)
-              </summary>
-              <p align="center">
-                <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/10classes.png">
-              </p>
-              <div align="center" style="font-weight: bold;">
-                Smooth optimization procedure in 600 epochs
-              </div>
-            </details>
-          </li>
-  </details>
-
-<details>
-  <summary id="star-nmf">
-    <h3>🌟Non-negative Matrix Factorization using NumPy<a href="https://github.com/XavierSpycy/NumPyNMF">&#x2197;</a></h3>
-  </summary>
-  <p>
-    This project implements nine different Non-negative Matrix Factorization (NMF) algorithms and compares the robustness of each algorithm to five various types of noise in real-world data applications.
-  </p>
-  <ul>
-    <li>
-    <details>
-      <summary>
-        Well-reconstructed effects
-      </summary>
-      <p align="center">
-        <img src="https://github.com/XavierSpycy/NumPyNMF/blob/main/figures/pin.png">
-      </p>
-      <div align="center" style="font-weight: bold;">
-        Image reconstruction
-      </div>
-    </details>
-    </li>
-    <li>
-    <details>
-      <summary>Sufficient experiments</summary>
-      <p>
-        We conduct a seires of experiments, thus when developing your own algorithms, these results could act as a baseline. The results of the experiments (2 datasets &times; 5 noise types &times; 2 noise levels &times; 5 random seeds implicitly) are displayed in the repository.
-      </p>
-    </details>
-    </li>
-    <li>
-    <details>
-      <summary>Flexible development</summary>
-      <p>
-        Our development framework empowers you to effortlessly create your own NMF algorithms with minimal Python scripting.
-      </p>
-    </details>
-    </li>
-    <li>
-    <details>
-      <summary>Mature pipeline</summary>
-      <p>
-        Our framework offers well-established pipelines, accommodating both standard and customized NMF tests. 
-      </p>
-      <p>
-        For personalized NMF models, the <code>nmf</code> parameter accepts a <code>BasicNMF</code> object. You can seamlessly insert your own NMF model into our pipeline to evaluate its performance.
-      </p>
-    </details>
-    </li>
-    <li>
-    <details>
-      <summary>Multiprocessing experiments</summary>
-      <p>
-        We've harnessed the power of multiprocessing for extensive experiments, significantly enhancing efficiency. This approach has halved the overall experiment duration, reducing it to 30% ~ 50% of the time it would take to run each experiment sequentially.
-      </p>
-      <p>
-        For a comprehensive analysis of your algorithm, our platform enables conducting multiple experiments across various datasets:
-      </p>
-      <pre><code>from algorithm.pipeline import Experiment
-
-exp = Experiment()
-exp.choose('L1NormRegularizedNMF')
-exp.execute()</code></pre>
-    </details>
-    </li>
-    <li>
-    <details>
-      <summary>Interactive algorithm interface</summary>
-      <p align="center">
-        <img src="https://github.com/XavierSpycy/NumPyNMF/blob/main/figures/app_screen_shoot.jpg">
-      </p>
-      <p align="center">
-        <img src="https://github.com/XavierSpycy/NumPyNMF/blob/main/figures/app_screen_shoot_2.jpg">
-      </p>
-      <div align="center" style="font-weight: bold;">
-        Demo
-      </div>
-      <p>
-        Note that the initial parameter in these experiments can also be <code>BasicNMF</code> object, allowing the direct integration of your custom NMF model for thorough evaluation and testing.
-      </p>
-    </details>
-    </li>
-  </ul>
-<b>
-  DON'T HESITATE TO DEVELOP YOUR OWN ALGORITHM!!!
-</b>
-</details>
-</details>
-
-<details>
-  <summary id="pytorch-based-projects">
-    <h2>PyTorch-Based Projects</h2>
-  </summary>
-  <img src="http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000">
-  <p align="center">
-    <img src="assets/alex-knight-machinelearning.jpg">
-  </p>
-
-  Photo by <a href="https://unsplash.com/@agk42?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alex Knight</a> on <a href="https://unsplash.com/photos/white-robot-near-brown-wall-2EJCSULRwC8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  
-  <details>
-    <summary id="star-emnist-handwritten-character-classification">
-      <h3>🌟EMNIST Handwritten Character Classification</h3><a href="https://github.com/XavierSpycy/EMNIST-Classifier">&#x2197;</a>
-    </summary>
-    <p>
-      This project aims to reproduce various convolutional neural networks and modify them to our specific requirements.
-    </p>
-    <div align="center">
-  <table style="text-align: center;">
-    <caption>Performance of different CNNs on the training set</caption>
-    <tr>
-      <td></td>
-      <td align="center">AlexNet</td>
-      <td align="center">VGGNet</td>
-      <td align="center">SpinalNet</td>
-      <td align="center">ResNet</td>
-    </tr>
-    <tr>
-      <td align="center">Accuracy</td>
-      <td align="center">87.95%</td>
-      <td align="center">89.80%</td>
-      <td align="center">87.15%</td>
-      <td align="center">89.28%</td>
-    </tr>
-    <tr>
-      <td align="center">Precision</td>
-      <td align="center">87.62%</td>
-      <td align="center">90.01%</td>
-      <td align="center">86.18%</td>
-      <td align="center">89.24%</td>
-    </tr>
-    <tr>
-      <td align="center">Recall</td>
-      <td align="center">87.95%</td>
-      <td align="center">89.80%</td>
-      <td align="center">87.15%</td>
-      <td align="center">89.28%</td>
-    </tr>
-    <tr>
-      <td align="center">F1 score</td>
-      <td align="center">86.59%</td>
-      <td align="center">88.42%</td>
-      <td align="center">85.28%</td>
-      <td align="center">88.30%</td>
-    </tr>
-  </table>
-  </div>
-
-  <div align="center">
-  <table style="text-align: center;">
-    <caption>Performance of different CNNs on the test set</caption>
-    <tr>
-      <td></td>
-      <td align="center">AlexNet</td>
-      <td align="center">VGGNet</td>
-      <td align="center">SpinalNet</td>
-      <td align="center">ResNet</td>
-    </tr>
-    <tr>
-      <td align="center">Accuracy</td>
-      <td align="center">86.96%</td>
-      <td align="center">87.24%</td>
-      <td align="center">85.92%</td>
-      <td align="center">86.88%</td>
-    </tr>
-    <tr>
-      <td align="center">Precision</td>
-      <td align="center">85.55%</td>
-      <td align="center">86.43%</td>
-      <td align="center">85.92%</td>
-      <td align="center">86.88%</td>
-    </tr>
-    <tr>
-      <td align="center">Recall</td>
-      <td align="center">86.96%</td>
-      <td align="center">87.24%</td>
-      <td align="center">85.92%</td>
-      <td align="center">86.88%</td>
-    </tr>
-    <tr>
-      <td align="center">F1 score</td>
-      <td align="center">85.58%</td>
-      <td align="center">85.66%</td>
-      <td align="center">84.07%</td>
-      <td align="center">85.68%</td>
-    </tr>
-  </table>
-  </div>
-
-  <p align="center">
-    <img src="https://github.com/XavierSpycy/EMNIST-Classifier/blob/main/outputs/predictions_short.png">
-  </p>
-  <div align="center" style="font-weight: bold;">
-    Effects of VGGNet
-  </div>
-  </details>
-
-<details>
-  <summary id="star-cat">
-    <h3>🌟CAT: A Visual-Text Multimodal Classifier</h3><a href="https://github.com/XavierSpycy/CAT-ImageTextIntegrator">&#x2197;</a>
-  </summary>
-  <p>
-    This project involves a multi-label multi-classification problem. We deployed four pre-trained image models and two pre-trained text models. To enhance performance, we developed 12 multi-modal models using self-attention and cross-attention mechanisms. The project poster showcases some valuable techniques and intriguing discoveries.
-  </p>
-  <p align="center">
-    <img src="https://github.com/XavierSpycy/CAT-ImageTextIntegrator/blob/main/outcomes/CAT-2.jpeg">
-  </p>
-  <div align="center" style="font-weight: bold;">
-    CAT (Convolution, Attention and Transformer) architecture
-  </div>
-
-  <p align="center">
-    <img src="https://github.com/XavierSpycy/CAT-ImageTextIntegrator/blob/main/outcomes/poster.jpg">
-  </p>
-  <div align="center" style="font-weight: bold;">
-    Project Poster
-  </div>
-</details>
-
-<details>
-  <summary id="star-noisy-labels">
-    <h3>🌟Robust Traniners for Noisy Labels</h3><a href="https://github.com/XavierSpycy/Robust-Trainers-for-Noisy-Labels">&#x2197;</a>
-  </summary>
-  <p>
-    This project is an experimental repository focusing on dealing with datasets containing a high level of noisy labels (50% and above). This repository features experiments conducted on the <code>FashionMNIST</code> and <code>CIFAR</code> datasets using the <code>ResNet34</code> as the baseline classifier.
-  </p>
-  <p>
-    The repository explores various training strategies (<code>Trainer</code> objects), including <code>ForwardLossCorrection</code>, <code>CoTeaching</code>, <code>JoCoR</code>, and <code>O2UNet</code>. Specifically, for datasets with unknown transition matrices, <code>DualT</code> is employed as the Transition Matrix Estimator.
-  </p>
-  <ul>
-    <li>
-      <details>
-        <summary>Meaningful Loss Trends</summary>
-        <p align="center">
-          <img src="https://github.com/XavierSpycy/Robust-Trainers-for-Noisy-Labels/blob/main/figures/loss_correction_trend.png">
-        </p>
-        <div align="center" style="font-weight: bold;">
-          Loss Trend 1
-        </div>
-        <p align="center">
-          <img src="https://github.com/XavierSpycy/Robust-Trainers-for-Noisy-Labels/blob/main/figures/co_teaching_trend.png">
-        </p>
-        <div align="center" style="font-weight: bold;">
-          Loss Trend 2
-        </div>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>Persuasive Results</summary>
-        <div align="center">
-          <h5>FashionMNIST0.5</h5>
-            <table>
-              <tr>
-                <th colspan="3">Actual Transition Matrix</th>
-                <th colspan="3">Estimated Transition Matrix</th>
-              </tr>
-              <tr>
-                <td>0.5</td><td>0.2</td><td>0.3</td><td>0.473</td><td>0.209</td><td>0.309</td>
-              </tr>
-              <tr>
-                <td>0.3</td><td>0.5</td><td>0.2</td><td>0.306</td><td>0.485</td><td>0.232</td>
-              </tr>
-              <tr>
-                <td>0.2</td><td>0.3</td><td>0.5</td><td>0.221</td><td>0.306</td><td>0.460</td>
-              </tr>
-            </table>
-        </div>
-        <div align="center">
-          <h5>FashionMNIST0.6</h5>
-            <table>
-              <tr>
-                  <th colspan="3">Actual Transition Matrix</th>
-                  <th colspan="3">Estimated Transition Matrix</th>
-              </tr>
-              <tr>
-                <td>0.4</td><td>0.3</td><td>0.3</td><td>0.407</td><td>0.295</td><td>0.298</td>
-              </tr>
-              <tr>
-                <td>0.3</td><td>0.4</td><td>0.3</td><td>0.297</td><td>0.394</td><td>0.308</td>
-              </tr>
-              <tr>
-                <td>0.3</td><td>0.3</td><td>0.4</td><td>0.301</td><td>0.310</td><td>0.388</td></tr>
-              </tr>
-            </table>
-        </div>
-      </details>
-    </li>
-  </ul>
-</details>
-<details>
-  <summary id="star-tabtransformers">
-    <h3>
-      🌟Transformers for Tabular Data<a href="https://github.com/XavierSpycy/tabtransformers">&#x2197;</a>
-    </h3>
-  </summary>
-  <p>
-    A PyTorch-based implementation that leverages Transformer architectures to enhance the handling and design of tabular data.
-  </p>
-</details>
-<details>
-  <summary id="star-multiclip">
-    <h3>🌟MultiCLIP: Multimodal-Multilabel-Multistage Classification using Language Image Pre-training<a href="https://github.com/XavierSpycy/MultiCLIP">&#x2197;</a></h3>
-  </summary>
-  <p>
-    A framework for multimodal-multilabel-multistage classification utilizing advanced pretrained models like CLIP and BLIP. 
-  </p>
-  <p>
-    Diagrams of implementation:
-  </p>
-  <p align="center">
-    <img src="https://github.com/XavierSpycy/MultiCLIP/blob/main/figures/clip_router.png">
-  </p>
-  <div align="center" style="font-weight: bold">
-    CLIP + Router
-  </div>
-  <p align="center">
-    <img src="https://github.com/XavierSpycy/MultiCLIP/blob/main/figures/blip_ml_decoder.png">
-  </p>
-  <div align="center" style="font-weight: bold">
-    BLIP + Anything
-  </div>
-</details>
-</details>
-
-<details>
-  <summary id="tensorflow-based-project">
-    <h2>TensorFlow-Based Project</h2>
-  </summary>
-    <details>
-      <summary id="star-tf2">
-        <h3>🌟Awesome Tutorials for TensorFlow2<a href="https://github.com/XavierSpycy/Awesome-Tutorials-for-TensorFlow2">&#x2197;</a></h3>
-      </summary>
-    </details>
 </details>
 
 <details>
   <summary>
-    <h2>Certification</h2>
+    <h2>🚀 Projects</h2>
   </summary>
-  <img src="https://img.shields.io/badge/Coursera-F9AB00?style=for-the-badge&logo=Coursera&color=525252">
+  <details>
+    <summary><h3><img src="https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy">&#x2193;</h3></summary>
+    <p align="center">
+      <img src="assets/google-deepmind.jpg" width="500" height="auto">
+    </p>
+    <p>
+      Photo by <a href="https://unsplash.com/@googledeepmind?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Google DeepMind</a> on <a href="https://unsplash.com/photos/LaKwLAmcnBc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    </p>
+    <details>
+      <summary id="star-self-developed-library-using-numpy">
+        <h3>🌟Self-Developed Library using NumPy</h3><a href="https://github.com/XavierSpycy/MLForce">&#x2197;</a>
+      </summary>
+      <p>
+        My NumPy-based projects have been successfully integrated into my own open-source Python library, named <a href="https://pypi.org/project/mlforce/"><code>MLForce</code></a>. This library is also readily accessible on the <a href="https://pypi.org/project/mlforce">PyPI Community</a>.
+      </p>
+    </details>
+    <details>
+      <summary>
+        <h3>🌟Multilayer Perceptron from Scratch using NumPy<a href="https://github.com/XavierSpycy/NumPyMultilayerPerceptron">&#x2197;</a></h3>
+        <p>
+      </summary>
+        A robust implementation of multilayer perceptrons, entirely built upon the powerful NumPy library.
+        </p>
+        <p>Advantages of our implementation:
+          <ul>
+            <li>
+              <details>
+                <summary>Easy to construct</summary>
+                <p>
+                  <pre><code class="language-python">layers = [
+      Input(input_dim=2),
+      Dense(units=4, activation='leaky_relu', init='kaiming_normal', init_params={'mode': 'out'}),
+      Dense(units=3, activation='hardswish', init='xavier_normal'),
+      Dense(units=2, activation='relu', init='kaiming_normal', init_params={'mode': 'in'}),
+      Dense(units=1, activation='tanh', init='xavier_uniform')
+  ]
+  mlp = MultilayerPerceptron(layers)</code></pre>
+                </p>
+              </details>
+            </li>
+            <li>
+              <details>
+                <summary>Easy and stable to train</summary>
+                <p>
+                  <pre><code class="language-python">mlp.compile(optimizer='Adam',
+              metrics=['MeanSquareError'])
+  mlp.fit(X, y, epochs=3, batch_size=8, use_progress_bar=True)</code></pre>
+                </p>
+                <p align="center">
+                  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/toy_loss.png">
+                </p>
+                <div align="center" style="font-weight: bold;">
+                  Loss
+                </div>
+              </details>
+            </li>
+            <li>
+              <details>
+                <summary>
+                  Great results
+                </summary>
+                <p align="center">
+                  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/toy_decision_boundary.png">
+                </p>
+                <div align="center" style="font-weight: bold;">
+                  Decision boundary
+                </div>
+              </details>
+            </li>
+            <li>
+              <details>
+                <summary>
+                  Capability of dealing with complex datasets (10 classes, 128 features, 50,000 samples)
+                </summary>
+                <p align="center">
+                  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/10classes.png">
+                </p>
+                <div align="center" style="font-weight: bold;">
+                  Smooth optimization procedure in 600 epochs
+                </div>
+              </details>
+            </li>
+    </details>
+
+  <details>
+    <summary>
+      <h3>🌟Non-negative Matrix Factorization using NumPy<a href="https://github.com/XavierSpycy/NumPyNMF">&#x2197;</a></h3>
+    </summary>
+    <p>
+      This project implements nine different Non-negative Matrix Factorization (NMF) algorithms and compares the robustness of each algorithm to five various types of noise in real-world data applications.
+    </p>
+    <ul>
+      <li>
+      <details>
+        <summary>
+          Well-reconstructed effects
+        </summary>
+        <p align="center">
+          <img src="https://github.com/XavierSpycy/NumPyNMF/blob/main/figures/pin.png">
+        </p>
+        <div align="center" style="font-weight: bold;">
+          Image reconstruction
+        </div>
+      </details>
+      </li>
+      <li>
+      <details>
+        <summary>Sufficient experiments</summary>
+        <p>
+          We conduct a seires of experiments, thus when developing your own algorithms, these results could act as a baseline. The results of the experiments (2 datasets &times; 5 noise types &times; 2 noise levels &times; 5 random seeds implicitly) are displayed in the repository.
+        </p>
+      </details>
+      </li>
+      <li>
+      <details>
+        <summary>Flexible development</summary>
+        <p>
+          Our development framework empowers you to effortlessly create your own NMF algorithms with minimal Python scripting.
+        </p>
+      </details>
+      </li>
+      <li>
+      <details>
+        <summary>Mature pipeline</summary>
+        <p>
+          Our framework offers well-established pipelines, accommodating both standard and customized NMF tests. 
+        </p>
+        <p>
+          For personalized NMF models, the <code>nmf</code> parameter accepts a <code>BasicNMF</code> object. You can seamlessly insert your own NMF model into our pipeline to evaluate its performance.
+        </p>
+      </details>
+      </li>
+      <li>
+      <details>
+        <summary>Multiprocessing experiments</summary>
+        <p>
+          We've harnessed the power of multiprocessing for extensive experiments, significantly enhancing efficiency. This approach has halved the overall experiment duration, reducing it to 30% ~ 50% of the time it would take to run each experiment sequentially.
+        </p>
+        <p>
+          For a comprehensive analysis of your algorithm, our platform enables conducting multiple experiments across various datasets:
+        </p>
+        <pre><code>from algorithm.pipeline import Experiment
+
+  exp = Experiment()
+  exp.choose('L1NormRegularizedNMF')
+  exp.execute()</code></pre>
+      </details>
+      </li>
+      <li>
+      <details>
+        <summary>Interactive algorithm interface</summary>
+        <p align="center">
+          <img src="https://github.com/XavierSpycy/NumPyNMF/blob/main/figures/app_screen_shoot.jpg">
+        </p>
+        <p align="center">
+          <img src="https://github.com/XavierSpycy/NumPyNMF/blob/main/figures/app_screen_shoot_2.jpg">
+        </p>
+        <div align="center" style="font-weight: bold;">
+          Demo
+        </div>
+        <p>
+          Note that the initial parameter in these experiments can also be <code>BasicNMF</code> object, allowing the direct integration of your custom NMF model for thorough evaluation and testing.
+        </p>
+      </details>
+      </li>
+    </ul>
+  <b>
+    DON'T HESITATE TO DEVELOP YOUR OWN ALGORITHM!!!
+  </b>
+  </details>
+  </details>
+  <details>
+    <summary>
+      <h3><img src="http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000">&#x2193;</h3>
+    </summary>
+    <p align="center">
+      <img src="assets/alex-knight-machinelearning.jpg" width="500" height="auto">
+    </p>
+    Photo by <a href="https://unsplash.com/@agk42?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alex Knight</a> on <a href="https://unsplash.com/photos/white-robot-near-brown-wall-2EJCSULRwC8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+    <details>
+      <summary id="star-emnist-handwritten-character-classification">
+        <h3>🌟EMNIST Handwritten Character Classification</h3><a href="https://github.com/XavierSpycy/EMNIST-Classifier">&#x2197;</a>
+      </summary>
+      <p>
+        This project aims to reproduce various convolutional neural networks and modify them to our specific requirements.
+      </p>
+      <div align="center">
+    <table style="text-align: center;">
+      <caption>Performance of different CNNs on the training set</caption>
+      <tr>
+        <td></td>
+        <td align="center">AlexNet</td>
+        <td align="center">VGGNet</td>
+        <td align="center">SpinalNet</td>
+        <td align="center">ResNet</td>
+      </tr>
+      <tr>
+        <td align="center">Accuracy</td>
+        <td align="center">87.95%</td>
+        <td align="center">89.80%</td>
+        <td align="center">87.15%</td>
+        <td align="center">89.28%</td>
+      </tr>
+      <tr>
+        <td align="center">Precision</td>
+        <td align="center">87.62%</td>
+        <td align="center">90.01%</td>
+        <td align="center">86.18%</td>
+        <td align="center">89.24%</td>
+      </tr>
+      <tr>
+        <td align="center">Recall</td>
+        <td align="center">87.95%</td>
+        <td align="center">89.80%</td>
+        <td align="center">87.15%</td>
+        <td align="center">89.28%</td>
+      </tr>
+      <tr>
+        <td align="center">F1 score</td>
+        <td align="center">86.59%</td>
+        <td align="center">88.42%</td>
+        <td align="center">85.28%</td>
+        <td align="center">88.30%</td>
+      </tr>
+    </table>
+    </div>
+    <div align="center">
+    <table style="text-align: center;">
+      <caption>Performance of different CNNs on the test set</caption>
+      <tr>
+        <td></td>
+        <td align="center">AlexNet</td>
+        <td align="center">VGGNet</td>
+        <td align="center">SpinalNet</td>
+        <td align="center">ResNet</td>
+      </tr>
+      <tr>
+        <td align="center">Accuracy</td>
+        <td align="center">86.96%</td>
+        <td align="center">87.24%</td>
+        <td align="center">85.92%</td>
+        <td align="center">86.88%</td>
+      </tr>
+      <tr>
+        <td align="center">Precision</td>
+        <td align="center">85.55%</td>
+        <td align="center">86.43%</td>
+        <td align="center">85.92%</td>
+        <td align="center">86.88%</td>
+      </tr>
+      <tr>
+        <td align="center">Recall</td>
+        <td align="center">86.96%</td>
+        <td align="center">87.24%</td>
+        <td align="center">85.92%</td>
+        <td align="center">86.88%</td>
+      </tr>
+      <tr>
+        <td align="center">F1 score</td>
+        <td align="center">85.58%</td>
+        <td align="center">85.66%</td>
+        <td align="center">84.07%</td>
+        <td align="center">85.68%</td>
+      </tr>
+    </table>
+    </div>
+    <p align="center">
+      <img src="https://github.com/XavierSpycy/EMNIST-Classifier/blob/main/outputs/predictions_short.png">
+    </p>
+    <div align="center" style="font-weight: bold;">
+      Effects of VGGNet
+    </div>
+    </details>
+    <details>
+    <summary>
+      <h3>🌟CAT: A Visual-Text Multimodal Classifier</h3><a href="https://github.com/XavierSpycy/CAT-ImageTextIntegrator">&#x2197;</a>
+    </summary>
+    <p>
+      This project involves a multi-label multi-classification problem. We deployed four pre-trained image models and two pre-trained text models. To enhance performance, we developed 12 multi-modal models using self-attention and cross-attention mechanisms. The project poster showcases some valuable techniques and intriguing discoveries.
+    </p>
+    <p align="center">
+      <img src="https://github.com/XavierSpycy/CAT-ImageTextIntegrator/blob/main/outcomes/CAT-2.jpeg">
+    </p>
+    <div align="center" style="font-weight: bold;">
+      CAT (Convolution, Attention and Transformer) architecture
+    </div>
+    <p align="center">
+      <img src="https://github.com/XavierSpycy/CAT-ImageTextIntegrator/blob/main/outcomes/poster.jpg">
+    </p>
+    <div align="center" style="font-weight: bold;">
+      Project Poster
+    </div>
+  </details>
+  <details>
+    <summary>
+      <h3>🌟Robust Traniners for Noisy Labels</h3><a href="https://github.com/XavierSpycy/Robust-Trainers-for-Noisy-Labels">&#x2197;</a>
+    </summary>
+    <p>
+      This project is an experimental repository focusing on dealing with datasets containing a high level of noisy labels (50% and above). This repository features experiments conducted on the <code>FashionMNIST</code> and <code>CIFAR</code> datasets using the <code>ResNet34</code> as the baseline classifier.
+    </p>
+    <p>
+      The repository explores various training strategies (<code>Trainer</code> objects), including <code>ForwardLossCorrection</code>, <code>CoTeaching</code>, <code>JoCoR</code>, and <code>O2UNet</code>. Specifically, for datasets with unknown transition matrices, <code>DualT</code> is employed as the Transition Matrix Estimator.
+    </p>
+    <ul>
+      <li>
+        <details>
+          <summary>Meaningful Loss Trends</summary>
+          <p align="center">
+            <img src="https://github.com/XavierSpycy/Robust-Trainers-for-Noisy-Labels/blob/main/figures/loss_correction_trend.png">
+          </p>
+          <div align="center" style="font-weight: bold;">
+            Loss Trend 1
+          </div>
+          <p align="center">
+            <img src="https://github.com/XavierSpycy/Robust-Trainers-for-Noisy-Labels/blob/main/figures/co_teaching_trend.png">
+          </p>
+          <div align="center" style="font-weight: bold;">
+            Loss Trend 2
+          </div>
+        </details>
+      </li>
+      <li>
+        <details>
+          <summary>Persuasive Results</summary>
+          <div align="center">
+            <h5>FashionMNIST0.5</h5>
+              <table>
+                <tr>
+                  <th colspan="3">Actual Transition Matrix</th>
+                  <th colspan="3">Estimated Transition Matrix</th>
+                </tr>
+                <tr>
+                  <td>0.5</td><td>0.2</td><td>0.3</td><td>0.473</td><td>0.209</td><td>0.309</td>
+                </tr>
+                <tr>
+                  <td>0.3</td><td>0.5</td><td>0.2</td><td>0.306</td><td>0.485</td><td>0.232</td>
+                </tr>
+                <tr>
+                  <td>0.2</td><td>0.3</td><td>0.5</td><td>0.221</td><td>0.306</td><td>0.460</td>
+                </tr>
+              </table>
+          </div>
+          <div align="center">
+            <h5>FashionMNIST0.6</h5>
+              <table>
+                <tr>
+                    <th colspan="3">Actual Transition Matrix</th>
+                    <th colspan="3">Estimated Transition Matrix</th>
+                </tr>
+                <tr>
+                  <td>0.4</td><td>0.3</td><td>0.3</td><td>0.407</td><td>0.295</td><td>0.298</td>
+                </tr>
+                <tr>
+                  <td>0.3</td><td>0.4</td><td>0.3</td><td>0.297</td><td>0.394</td><td>0.308</td>
+                </tr>
+                <tr>
+                  <td>0.3</td><td>0.3</td><td>0.4</td><td>0.301</td><td>0.310</td><td>0.388</td></tr>
+                </tr>
+              </table>
+          </div>
+        </details>
+      </li>
+    </ul>
+  </details>
+  <details>
+    <summary>
+      <h3>
+        🌟Transformers for Tabular Data<a href="https://github.com/XavierSpycy/tabtransformers">&#x2197;</a>
+      </h3>
+    </summary>
+    <p>
+      A PyTorch-based implementation that leverages Transformer architectures to enhance the handling and design of tabular data.
+    </p>
+  </details>
+  <details>
+    <summary>
+      <h3>🌟MultiCLIP: Multimodal-Multilabel-Multistage Classification using Language Image Pre-training<a href="https://github.com/XavierSpycy/MultiCLIP">&#x2197;</a></h3>
+    </summary>
+    <p>
+      A framework for multimodal-multilabel-multistage classification utilizing advanced pretrained models like CLIP and BLIP. 
+    </p>
+    <p>
+      Diagrams of implementation:
+    </p>
+    <p align="center">
+      <img src="https://github.com/XavierSpycy/MultiCLIP/blob/main/figures/clip_router.png">
+    </p>
+    <div align="center" style="font-weight: bold">
+      CLIP + Router
+    </div>
+    <p align="center">
+      <img src="https://github.com/XavierSpycy/MultiCLIP/blob/main/figures/blip_ml_decoder.png">
+    </p>
+    <div align="center" style="font-weight: bold">
+      BLIP + Anything
+    </div>
+  </details>
+  </details>
+  <details>
+    <summary>
+      <h3><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00">&#x2193;</h3>
+    </summary>
+      <details>
+        <summary>
+          <h3>🌟Awesome Tutorials for TensorFlow2<a href="https://github.com/XavierSpycy/Awesome-Tutorials-for-TensorFlow2">&#x2197;</a></h3>
+        </summary>
+      </details>
+  </details>
+    <details>
+    <summary>
+      <h3><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-929292">&#x2193;</h3>
+    </summary>
+        <p align="center">
+          <img src="assets/growtika-f0JGorLOkw0-unsplash.jpg" width="500" height="auto">
+        </p>
+        <p>
+        Photo by <a href="https://unsplash.com/@growtika?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Growtika</a> on <a href="https://unsplash.com/photos/a-computer-generated-image-of-a-network-and-a-laptop-f0JGorLOkw0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+        </p>
+        <details>
+        <summary>
+          <h3>🌟Hands-on LoRa: Practical Fine-tuning LLMs using LoRa<a href="https://github.com/XavierSpycy/hands-on-lora">&#x2197;</a></h3>
+        </summary>
+        <div align="center" style="font-weight: bold;">
+          Completed Showcase of LLMs with LoRa
+        </div>
+        <div align="center">
+          <table style="text-align: center;">
+              <tr>
+                <td>LLM</td>
+                <td>No. Parameters</td>
+                <td>Task</td>
+                <td>LoRa/QLoRa</td>
+                <td>Code</td>
+              </tr>
+              <tr>
+                <td>Gemma-IT</td>
+                <td>2B</td>
+                <td>Text-to-text Generation</td>
+                <td>QLoRa</td>
+                <td><a href="https://github.com/XavierSpycy/hands-on-lora/tree/main/examples/gemma_text2text">Link</a></td>
+              </tr>
+              <tr>
+                <td>Qwen 2</td>
+                <td>1.5B</td>
+                <td>Named Entity Recognition</td>
+                <td>LoRa</td>
+                <td><a href="https://github.com/XavierSpycy/hands-on-lora/tree/main/examples/qwen_ner">Link</a></td>
+              </tr>
+              <tr>
+                <td>Llama 3</td>
+                <td>8B</td>
+                <td>Cross-Linguistic Adaptation</td>
+                <td>LoRa</td>
+                <td><a href="https://github.com/XavierSpycy/hands-on-lora/tree/main/examples/llama_chinese">Link</a></td>
+              </tr>
+          </table>
+        </div>
+      </details>
+      <details>
+        <summary>
+          <h3>🌟Llama3Ops: From LoRa to Deployment with Llama3<a href="https://github.com/XavierSpycy/llama-ops">&#x2197;</a></h3>
+        </summary>
+        <ul>
+        <li><u>Model weights</u>: <a href="https://huggingface.co/XavierSpycy/Meta-Llama-3-8B-Instruct-zh-10k">XavierSpycy/Meta-Llama-3-8B-Instruct-zh-10k</a></li>
+        <li><u>Finetuning framework</u>: <code>LLaMA-Factory</code> | <code>PEFT</code> | <code>Unsloth</code> </li>
+        <li><u>Qauntization framework</u>: <code>llama.cpp</code> | <code>AutoAWQ</code> | <code>AutoGPTQ</code></li>
+        <li><u>Deployment framework</u>: <code>llama.cpp</code> | <code>ollama</code> | <code>TensorRT-LLM</code> & <code>Triton</code> | <code>vLLM</code> </li>
+        <li><u>RAG framework</u>: <code>LangChain</code> | <code>LlamaIndex</code></li>
+        </ul>
+      </details>
+  </details>
+</details>
+
+<details>
+  <summary>
+    <h2>📄 Certification</h2>
+  </summary>
+  <div style="text-align: center;">
+    <img src="assets/coursera.svg" width="100" height="auto">
+  </div>
   <div align="center">
       <table>
           <tr>
@@ -639,18 +672,18 @@ exp.execute()</code></pre>
 
 <details> 
   <summary>
-    <h2>How to Reach me</h2>
+    <h2>☎️ Contact</h2>
   </summary>
   <p align="left">
       <a href="mailto:jixu9182@uni.sydney.edu.au" target="blank">
           <img align="center" src="assets/gmail.svg" alt="Gmail" height="30" width="30" style="margin-right:10px;"/>
-          Email: jixu9182@uni.sydney.edu.au
+          jixu9182@uni.sydney.edu.au
       </a>
   </p>
   <p align="left">
       <a href="https://www.linkedin.com/in/jiarui-xu-xavierspycy98" target="blank">
           <img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin-right:10px;"/>
-          LinkedIn: Jiarui XU
+          Jiarui XU
       </a>
   </p>
 </details>
