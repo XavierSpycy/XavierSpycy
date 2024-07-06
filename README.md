@@ -13,10 +13,10 @@ Photo by <a href="https://unsplash.com/@cdr6934?utm_source=unsplash&utm_medium=r
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 10px;">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=XavierSpycy&show_icons=true&theme=default&hide=issues"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=XavierSpycy&show_icons=true&theme=default&hide=issues"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierSpycy&layout=donut">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierSpycy&layout=donut">
   </a>
 </div>
 
