@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=XavierSpycy&color=blueviolet">
+
 <img src="assets/Bottom_up.svg">
 
 <img src="assets/chris-ried-python-crop.jpg">
@@ -7,6 +9,13 @@ Photo by <a href="https://unsplash.com/@cdr6934?utm_source=unsplash&utm_medium=r
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋++Hi~,+I+am+Jiarui+Xu~;👋++你好～我叫徐嘉瑞～;Welcome+to+my+profile!;欢迎来到我的主页!;Master's+degree+of+Data+Science;数据科学硕士;Machine+learning+specialization;机器学习专项;Python+programming+enthusiast;Python编程爱好者;Patience+and+persistence.;持之以恒。" alt="Typing SVG">
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=XavierSpycy&show_icons=true&theme=default&rank_icon=github&hide=issues"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierSpycy&layout=donut">
 </a>
 
 ```mermaid
@@ -36,10 +45,6 @@ graph TD;
 | **Machine Learning Libraries** |   ![Scikit Learn](https://img.shields.io/badge/Scikit-Learn-blue?style=flat&logoColor=black&labelColor=orange)|
 | **Deep Learning Frameworks** |  ![PyTorch](http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-929292) |
 | **Visualization techniques**| ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-FF6F00?style=flat&logo=powerbi&logoColor=white) ![D3](https://img.shields.io/badge/-D3.js%20-EEEE00?style=flat&logo=d3.js&logoColor=white) ![Tulip](https://img.shields.io/badge/-Tulip%20-00AA00?style=flat&logo=Tulip&logoColor=white) ![yEd](https://img.shields.io/badge/-yEd%20-00000FF?style=flat&logo=yEd&logoColor=white) ![Gephi](https://img.shields.io/badge/-Gephi%20-4F004F?style=flat&logo=Gephid&logoColor=white)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierSpycy&layout=donut">
-
-<img src="https://komarev.com/ghpvc/?username=XavierSpycy&color=blueviolet">
 
 <details>
   <summary><h2>📖 Curriculum Vitae</h2></summary>
@@ -92,7 +97,7 @@ graph TD;
     <h2>🚀 Projects</h2>
   </summary>
   <details>
-    <summary><h3><img src="https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy">&#x2193;</h3></summary>
+    <summary><h3><img src="https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy"><img src="assets/cursor.png" style="transform: rotate(-15deg) translateY(4px);"></h3></summary>
     <p align="center">
       <img src="assets/google-deepmind.jpg" width="500" height="auto">
     </p>
@@ -264,7 +269,7 @@ graph TD;
   </details>
   <details>
     <summary>
-      <h3><img src="http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000">&#x2193;</h3>
+      <h3><img src="http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000"><img src="assets/cursor.png" style="transform: rotate(-15deg) translateY(4px);"></h3>
     </summary>
     <p align="center">
       <img src="assets/alex-knight-machinelearning.jpg" width="500" height="auto">
@@ -491,7 +496,7 @@ graph TD;
   </details>
   <details>
     <summary>
-      <h3><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00">&#x2193;</h3>
+      <h3><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00"><img src="assets/cursor.png" style="transform: rotate(-15deg) translateY(4px);"></h3>
     </summary>
       <details>
         <summary>
@@ -501,7 +506,7 @@ graph TD;
   </details>
     <details>
     <summary>
-      <h3><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-929292">&#x2193;</h3>
+      <h3><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-929292"><img src="assets/cursor.png" style="transform: rotate(-15deg) translateY(4px);"></h3>
     </summary>
         <p align="center">
           <img src="assets/growtika-f0JGorLOkw0-unsplash.jpg" width="500" height="auto">
@@ -674,14 +679,17 @@ graph TD;
   <summary>
     <h2>☎️ Contact</h2>
   </summary>
+  <p>
+  If you have any questions or need further information, please don't hesitate to open an issue: <a href="https://github.com/XavierSpycy/XavierSpycy/issues">Ask a Question</a>.
+  </p>
   <p align="left">
-      <a href="mailto:jixu9182@uni.sydney.edu.au" target="blank">
+      <a href="mailto:jixu9182@uni.sydney.edu.au" target="_blank">
           <img align="center" src="assets/gmail.svg" alt="Gmail" height="30" width="30" style="margin-right:10px;"/>
           jixu9182@uni.sydney.edu.au
       </a>
   </p>
   <p align="left">
-      <a href="https://www.linkedin.com/in/jiarui-xu-xavierspycy98" target="blank">
+      <a href="https://www.linkedin.com/in/jiarui-xu-xavierspycy98" target="_blank">
           <img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin-right:10px;"/>
           Jiarui XU
       </a>
