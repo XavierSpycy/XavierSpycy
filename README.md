@@ -99,7 +99,7 @@ graph TD;
   <details>
     <summary>
       <h3>
-        <img src="https://img.shields.io/badge/NumPy-blue?style=flat&logo=numpy" style="vertical-align: middle;"><img src="assets/cursor.png", height="30" width="auto" style="transform: rotate(-20deg) translateY(10px);">
+        <img src="https://img.shields.io/badge/NumPy-blue?style=flat&logo=numpy" style="vertical-align: middle;">🖱️
       </h3>
     </summary>
     <p align="center">
@@ -273,7 +273,7 @@ graph TD;
   </details>
   <details>
     <summary>
-      <h3><img src="http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000" style="vertical-align: middle;"><img src="assets/cursor.png", height="30" width="auto" style="transform: rotate(-20deg) translateY(10px);"></h3>
+      <h3><img src="http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000" style="vertical-align: middle;">🖱️</h3>
     </summary>
     <p align="center">
       <img src="assets/alex-knight-machinelearning.jpg" width="500" height="auto">
@@ -500,7 +500,7 @@ graph TD;
   </details>
     <details>
     <summary>
-      <h3><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-929292" style="vertical-align: middle;"><img src="assets/cursor.png", height="30" width="auto" style="transform: rotate(-20deg) translateY(10px);"></h3>
+      <h3><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-929292" style="vertical-align: middle;">🖱️</h3>
     </summary>
         <p align="center">
           <img src="assets/growtika-f0JGorLOkw0-unsplash.jpg" width="500" height="auto">
@@ -563,7 +563,7 @@ graph TD;
   </details>
   <details>
     <summary>
-      <h3><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00" style="vertical-align: middle;"><img src="assets/cursor.png", height="30" width="auto" style="transform: rotate(-20deg) translateY(10px);"></h3>
+      <h3><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00" style="vertical-align: middle;">🖱️</h3>
     </summary>
       <details>
         <summary>
