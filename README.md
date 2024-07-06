@@ -11,12 +11,12 @@ Photo by <a href="https://unsplash.com/@cdr6934?utm_source=unsplash&utm_medium=r
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋++Hi~,+I+am+Jiarui+Xu~;👋++你好～我叫徐嘉瑞～;Welcome+to+my+profile!;欢迎来到我的主页!;Master's+degree+of+Data+Science;数据科学硕士;Machine+learning+specialization;机器学习专项;Python+programming+enthusiast;Python编程爱好者;Patience+and+persistence.;持之以恒。" alt="Typing SVG">
 </a>
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; margin-right: 10px; vertical-align: top;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=XavierSpycy&show_icons=true&theme=default&rank_icon=github&hide=issues"/>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 10px;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=XavierSpycy&show_icons=true&theme=default&hide=issues"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; vertical-align: top;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierSpycy&layout=donut">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierSpycy&layout=donut">
   </a>
 </div>
 
