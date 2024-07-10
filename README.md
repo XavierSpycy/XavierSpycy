@@ -77,19 +77,27 @@ graph TD;
       Internship:
       <ul>
         <li>
-          <code>AIGC Algorithm Intern</code> @ <img src="https://img.shields.io/badge/FunPlus-orange?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNDAwLjAwMDAwMHB0IiBoZWlnaHQ9IjQwMC4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDQwMC4wMDAwMDAgNDAwLjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsNDAwLjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTAgMjAwMCBsMCAtMjAwMCAyMDAwIDAgMjAwMCAwIDAgMjAwMCAwIDIwMDAgLTIwMDAgMCAtMjAwMCAwIDAKLTIwMDB6IG0yODgyIDEyMDQgYzY3IC00NyA4OCAtOTggODggLTIxNyAwIC04NSAzIC0xMDMgMjEgLTEyOSAzMiAtNDQgNzUgLTU4CjE4MSAtNTggMTA3IDAgMTQ0IC0xNCAxOTIgLTczIDUzIC02NiA0OSAtMTgyIC0xMCAtMjQ3IC00NyAtNTIgLTEwNCAtNzAgLTIyMgotNzAgbC05NSAwIC0zMiAtMzUgYy0zMyAtMzQgLTMzIC0zNCAtMzYgLTE1NCAtNCAtMTE2IC01IC0xMjAgLTM1IC0xNTggLTUwCi02MiAtOTggLTg0IC0xNzAgLTgxIC03OCA1IC0xMjYgMzUgLTE2MCAxMDAgLTIwIDQwIC0yNCA2MSAtMjQgMTQzIDAgMTU3IC0yNQoxODUgLTE2NSAxODUgLTE4MiAwIC0yNjUgNjMgLTI2NyAyMDEgLTEgNTEgNCA2NyAyOCAxMDEgNTIgNzQgNzEgODIgMjAyIDg4CjEyNiA2IDE0OSAxNCAxODEgNTkgMTggMjUgMjEgNDQgMjEgMTMwIDAgMTEwIDE0IDE1MyA2MiAxOTggNjUgNjEgMTY4IDY4IDI0MAoxN3ogbS04NjEgLTQ0OSBjMyAtMiAtMiAtMzggLTEwIC03OSAtMTQgLTY3IC0xNCAtODEgMSAtMTQwIDggLTM2IDEzIC02OCAxMAotNzEgLTMgLTMgLTE3MSAtNSAtMzc0IC01IGwtMzcwIDAgLTI3IC0yOCBjLTI1IC0yNCAtMjggLTM3IC0zNCAtMTE3IC00IC01MAotMTMgLTE2NCAtMjEgLTI1NSAtMjAgLTIyMSAtNDMgLTQ3NyAtNjEgLTY4OSAtMTUgLTE3MCAtMTQgLTE3NCA1IC0yMDIgMTUKLTIwIDMyIC0zMCA2MyAtMzQgNjQgLTkgMTM1OSAtMSAxMzgwIDkgNDQgMjEgNDcgNDcgNDcgMzkxIGwwIDMyNyAzMyAtOSBjNDEKLTEwIDE3MSAtMTAgMjIwIDAgbDM4IDggLTMgLTM3OCAtMyAtMzc4IC0yOCAtNTcgYy0zNyAtNzUgLTk5IC0xMzggLTE3MiAtMTc0CmwtNjAgLTI5IC03NTkgLTMgYy04NTIgLTMgLTgyNSAtNSAtOTIzIDY5IC0xMDcgODAgLTE0MyAxNTkgLTE0MyAzMTIgMCA1NiA1CjE0MCAxMCAxODYgNSA0NyAxNCAxNDEgMjAgMjEwIDUgNzAgMTQgMTczIDIwIDIzMSA1IDU4IDE3IDE5MSAyNSAyOTUgMzIgMzc0CjQyIDQxMyAxMzUgNTA1IDUzIDU0IDExMSA4NSAxODMgOTkgNDQgOSA3OTAgMTUgNzk4IDZ6Ii8+CjwvZz4KPC9zdmc+Cg==">:
+          <code>AIGC Algorithm Intern</code> &#x40; <img src="https://img.shields.io/badge/FunPlus-orange?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNDAwLjAwMDAwMHB0IiBoZWlnaHQ9IjQwMC4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDQwMC4wMDAwMDAgNDAwLjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsNDAwLjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTAgMjAwMCBsMCAtMjAwMCAyMDAwIDAgMjAwMCAwIDAgMjAwMCAwIDIwMDAgLTIwMDAgMCAtMjAwMCAwIDAKLTIwMDB6IG0yODgyIDEyMDQgYzY3IC00NyA4OCAtOTggODggLTIxNyAwIC04NSAzIC0xMDMgMjEgLTEyOSAzMiAtNDQgNzUgLTU4CjE4MSAtNTggMTA3IDAgMTQ0IC0xNCAxOTIgLTczIDUzIC02NiA0OSAtMTgyIC0xMCAtMjQ3IC00NyAtNTIgLTEwNCAtNzAgLTIyMgotNzAgbC05NSAwIC0zMiAtMzUgYy0zMyAtMzQgLTMzIC0zNCAtMzYgLTE1NCAtNCAtMTE2IC01IC0xMjAgLTM1IC0xNTggLTUwCi02MiAtOTggLTg0IC0xNzAgLTgxIC03OCA1IC0xMjYgMzUgLTE2MCAxMDAgLTIwIDQwIC0yNCA2MSAtMjQgMTQzIDAgMTU3IC0yNQoxODUgLTE2NSAxODUgLTE4MiAwIC0yNjUgNjMgLTI2NyAyMDEgLTEgNTEgNCA2NyAyOCAxMDEgNTIgNzQgNzEgODIgMjAyIDg4CjEyNiA2IDE0OSAxNCAxODEgNTkgMTggMjUgMjEgNDQgMjEgMTMwIDAgMTEwIDE0IDE1MyA2MiAxOTggNjUgNjEgMTY4IDY4IDI0MAoxN3ogbS04NjEgLTQ0OSBjMyAtMiAtMiAtMzggLTEwIC03OSAtMTQgLTY3IC0xNCAtODEgMSAtMTQwIDggLTM2IDEzIC02OCAxMAotNzEgLTMgLTMgLTE3MSAtNSAtMzc0IC01IGwtMzcwIDAgLTI3IC0yOCBjLTI1IC0yNCAtMjggLTM3IC0zNCAtMTE3IC00IC01MAotMTMgLTE2NCAtMjEgLTI1NSAtMjAgLTIyMSAtNDMgLTQ3NyAtNjEgLTY4OSAtMTUgLTE3MCAtMTQgLTE3NCA1IC0yMDIgMTUKLTIwIDMyIC0zMCA2MyAtMzQgNjQgLTkgMTM1OSAtMSAxMzgwIDkgNDQgMjEgNDcgNDcgNDcgMzkxIGwwIDMyNyAzMyAtOSBjNDEKLTEwIDE3MSAtMTAgMjIwIDAgbDM4IDggLTMgLTM3OCAtMyAtMzc4IC0yOCAtNTcgYy0zNyAtNzUgLTk5IC0xMzggLTE3MiAtMTc0CmwtNjAgLTI5IC03NTkgLTMgYy04NTIgLTMgLTgyNSAtNSAtOTIzIDY5IC0xMDcgODAgLTE0MyAxNTkgLTE0MyAzMTIgMCA1NiA1CjE0MCAxMCAxODYgNSA0NyAxNCAxNDEgMjAgMjEwIDUgNzAgMTQgMTczIDIwIDIzMSA1IDU4IDE3IDE5MSAyNSAyOTUgMzIgMzc0CjQyIDQxMyAxMzUgNTA1IDUzIDU0IDExMSA4NSAxODMgOTkgNDQgOSA3OTAgMTUgNzk4IDZ6Ii8+CjwvZz4KPC9zdmc+Cg==">:
         </li>
         <ul>
           <li>
+            Department of AI Tech
+          </li>
+          <li>
             2023.12 ~ 2024.02
           </li>
-          <li>
-            Deployed SOTA algorithms.
-          </li>
-          <li>
-              Developed LLM applications with RAG.
-          </li>
         </ul>
+        <li>
+          <code>Vacation Research Intern</code> &#x40; <img src="https://img.shields.io/badge/USYD-white?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMCAtNSAxMjAgMTEwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjExMCI+PHBhdGggZD0iTTUwIDY2aDd2LTJoLTd2MnptMCAzaDd2LTJoLTd2MnptMC03aDd2LTFoLTd2MXptLTUgMmgtOHYxaDh2LTF6bTAgM2gtOHYyaDh2LTJ6bTAtNmgtOHYxaDh2LTF6bTExLTIwSDM4djE2SDljMiA3IDQgMTQgOSAxOWwyLTFoMTh2MTZsOSAxIDktMVY3NWgxOGwzIDFjNC01IDctMTIgOC0xOUg1NlY0MnptLTE0IDUgNCAyIDEtNCAyIDQgMy0yLTEgNCA0IDItNSAxIDIgNC00LTItMSA0LTEtNC00IDIgMi00LTQtMiA0LTEtMi00ek0yOCA3MWwtMy0yLTIgNC0xLTQtNCAyIDItNC00LTEgNC0yLTItMyA0IDEgMS00IDEgNCA0LTEtMiAzIDQgMi00IDEgMiA0em03IDBoLTJ2LTFoMXYxem0wLTRoLTJ2LTFoMXYxem0wLTNoLTJ2LTFoMXYxem0wLTNoLTJ2LTFoMXYxem0wIDEwVjU5aDhjMiAwIDQgMSA0IDN2MTBsLTMtMWgtOXptMTggMTUtNC0xLTIgNC0xLTQtNCAxIDItMy00LTIgNC0xLTItNCA0IDIgMS00IDIgNCA0LTItMiA0IDQgMS00IDIgMSAzem0xMy0yNSA0IDEgMS00IDIgNCA0LTEtMiAzIDQgMi00IDEgMiA0LTQtMi0yIDQtMS00LTQgMiAyLTQtNC0xIDQtMi0yLTN6bS02LTFoMnYxaC0ydi0xem0wIDNoMnYxaC0ydi0xem0wIDNoMnYxaC0ydi0xem0wIDRoMnYxaC0ydi0xem0tMS0xMXYxMmgtOWwtMiAxVjYyYzAtMiAxLTMgMy0zaDh6TTc0IDhjLTgtMi0xNy0zLTI3LTNhMTQ3IDE0NyAwIDAgMC0zOCA2djMyYTI2NSAyNjUgMCAwIDEgNzcgMFYxMWwtMy0xLTktMnptLTQwIDN2LTFsMyAxIDEtMSAxIDEgNC0xdjFjMyAxIDUgMyA1IDd2MmgtMWwtMSAzYy0xIDItMi0xLTIgMGwtMyAydi0xbDItMiAxLTN2LTNsMS0yLTItMi0yIDFoLTFsMSAxYzEgMCAyIDQgMSA1bC0xIDItMSAxaC0xbDEtMnYtMWwxLTJjMSAwIDEgMCAwIDBoLTJ2M2gtMmwxLTNoLTNsMSAydjFsMiAyaC0xbC0yLTEtMS0yIDItNXYtMWwtMi0xLTIgMiAxIDJ2M2wxIDMgMSAxIDEgMXYxbC0zLTJoLTJsLTItM2MwLTEgMCAwIDAgMGwtMS0yYzAtNCAzLTYgNi03em04IDJoMWwxIDEtMSAxdi0xbC0xLTF6bS0yIDExaC0zdi0xaDN2MXptLTYtOS0xLTEgMS0xaDF2MWwtMSAxem0tOCAxMS0yIDF2LTJsLTEtMWMtMSAxLTMgMi00IDBoMXYtMWwtMS0ydi0xaDR2LTJjMyAxIDIgNCAyIDRsNyAzaDFsNCAxaDFjLTQgNC04IDMtOSAybC0zIDF2LTN6bTM4IDQtMyAxaC0xdjJoLTJsMSAxaC0zbC0xIDF2MmwtMS0xYy0xIDEtMiAwLTItMWgtM2MwLTIgMS0yIDItMnYtMmgtMWMyLTEgMyAwIDQgMWwzLTItMS0xYzItMiAzLTMgNi0zbDEgMSAxIDJ2MXptMTMtMXYxaC0ybDEgMS0yIDEtMSAxIDEgM2gtMWwtMi0xYy0xIDEtMiAyLTMgMWgtMWMtMS0xIDAtMiAxLTJ2LTFsLTItMSAzLTFjMSAxIDMtMSAyLTMtMS0xLTYgMi03LTF2LTNjLTEgMC00IDAtNyAyLTUgNC0xMSAyLTEzIDF2MmwtMyAyYy0yIDAtMiAyLTIgMyAxIDAgMCAwIDAgMC0xIDAtMiAwLTItMmgtMXYyaC00djNoLTFsLTEtMmgtNGwxLTNjMSAwIDEgMCAwIDB2LTJoLTFjMi0xIDQgMSA0IDFsNS0yIDQtM2gxbDQtMmMyIDIgMy0xIDQtM2gyMmwyLTFjMC0yLTgtMi0xNC0xaC03bC0yLTJ2LTFsMS0xYzEtMyA1LTMgNi0zIDAtMSAwLTIgMi0yaDFsLTEgMmM0LTMgNS0xIDYgMC0yIDAtMyAyLTcgMmwtNiAxYzAgMSAwIDIgMiAyaDE4YzIgMSA0IDIgNCA0bC0yIDJzLTQgMyAzIDNjMiAwIDAgMiAwIDJsMSAxek02NCAxNGgtMWMwIDEtMyAyLTQgMGwzLTEgMiAxek00NyAwQzI0IDAgMCA2IDAgNnYzMmMwIDI4IDIwIDU4IDQ3IDYzIDI4LTYgNDgtMzUgNDgtNjNWNlM3NSAwIDQ3IDB6bTQxIDQ5YzAgMjMtMTggNDQtNDEgNDRDMjUgOTMgNyA3MiA3IDQ5VjEwbDEtMXMyMC02IDM5LTYgNDAgNiA0MCA2djQweiIgc3R5bGU9ImZpbGw6IzM2MzYzNiIvPjwvc3ZnPg==">
+          <ul>
+            <li>
+              Faculty of Engineering
+            </li>
+            <li>
+              2024.06 ~ 2024.07
+            </li>
+          </ul>
+        </li>
       </ul>
   </ul>
 </details>
@@ -100,9 +108,7 @@ graph TD;
   </summary>
   <details>
     <summary>
-      <h3>
-        <img src="https://img.shields.io/badge/NumPy-blue?style=flat&logo=numpy" style="vertical-align: middle;">🖱️
-      </h3>
+      <h3><img src="https://img.shields.io/badge/NumPy-blue?style=flat&logo=numpy" style="vertical-align: middle;"> <span style="display: inline-block; transform: rotate(220deg);">&#x27A3;</span></h3>
     </summary>
     <p align="center">
       <img src="assets/google-deepmind.jpg" width="500" height="auto">
@@ -275,7 +281,7 @@ graph TD;
   </details>
   <details>
     <summary>
-      <h3><img src="http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000" style="vertical-align: middle;">🖱️</h3>
+      <h3><img src="http://img.shields.io/badge/-PyTorch-4F004F?style=flat-square&logo=pytorch&logoColor=FF0000" style="vertical-align: middle;"> <span style="display: inline-block; transform: rotate(220deg);">&#x27A3;</span></h3>
     </summary>
     <p align="center">
       <img src="assets/alex-knight-machinelearning.jpg" width="500" height="auto">
@@ -502,7 +508,7 @@ graph TD;
   </details>
     <details>
     <summary>
-      <h3><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-929292" style="vertical-align: middle;">🖱️</h3>
+      <h3><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-929292" style="vertical-align: middle;"> <span style="display: inline-block; transform: rotate(220deg);">&#x27A3;</span></h3>
     </summary>
         <p align="center">
           <img src="assets/growtika-f0JGorLOkw0-unsplash.jpg" width="500" height="auto">
@@ -565,7 +571,7 @@ graph TD;
   </details>
   <details>
     <summary>
-      <h3><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00" style="vertical-align: middle;">🖱️</h3>
+      <h3><img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00" style="vertical-align: middle;"> <span style="display: inline-block; transform: rotate(220deg);">&#x27A3;</span></h3>
     </summary>
       <details>
         <summary>
