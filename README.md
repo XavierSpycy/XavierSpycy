@@ -134,81 +134,46 @@ graph TD;
       Photo by <a href="https://unsplash.com/@googledeepmind?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Google DeepMind</a> on <a href="https://unsplash.com/photos/LaKwLAmcnBc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     </p>
     <details>
-      <summary id="star-self-developed-library-using-numpy">
-        <h3>🌟Self-Developed Library using NumPy</h3><a href="https://github.com/XavierSpycy/MLForce">&#x2197;</a>
-      </summary>
-      <p>
-        My NumPy-based projects have been successfully integrated into my own open-source Python library, named <a href="https://pypi.org/project/mlforce/"><code>MLForce</code></a>. This library is also readily accessible on the <a href="https://pypi.org/project/mlforce">PyPI Community</a>.
-      </p>
-    </details>
-    <details>
       <summary>
         <h3>🌟Multilayer Perceptron from Scratch using NumPy<a href="https://github.com/XavierSpycy/NumPyMultilayerPerceptron">&#x2197;</a></h3>
-        <p>
       </summary>
+      <p align="center">
+        <img src="https://github.com/XavierSpycy/NumPy-Keras/blob/main/figures/numpy_keras.jpg" width="20%" height="auto">
+      <p>
         A robust implementation of multilayer perceptrons, entirely built upon the powerful NumPy library.
-        </p>
-        <p>Advantages of our implementation:
-          <ul>
-            <li>
-              <details>
-                <summary>Easy to construct</summary>
-                <p>
-                  <pre><code class="language-python">layers = [
-      Input(input_dim=2),
-      Dense(units=4, activation='leaky_relu', init='kaiming_normal', init_params={'mode': 'out'}),
-      Dense(units=3, activation='hardswish', init='xavier_normal'),
-      Dense(units=2, activation='relu', init='kaiming_normal', init_params={'mode': 'in'}),
-      Dense(units=1, activation='tanh', init='xavier_uniform')
-  ]
-  mlp = MultilayerPerceptron(layers)</code></pre>
-                </p>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>Easy and stable to train</summary>
-                <p>
-                  <pre><code class="language-python">mlp.compile(optimizer='Adam',
-              metrics=['MeanSquareError'])
-  mlp.fit(X, y, epochs=3, batch_size=8, use_progress_bar=True)</code></pre>
-                </p>
-                <p align="center">
-                  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/toy_loss.png">
-                </p>
-                <div align="center" style="font-weight: bold;">
-                  Loss
-                </div>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>
-                  Great results
-                </summary>
-                <p align="center">
-                  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/toy_decision_boundary.png">
-                </p>
-                <div align="center" style="font-weight: bold;">
-                  Decision boundary
-                </div>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>
-                  Capability of dealing with complex datasets (10 classes, 128 features, 50,000 samples)
-                </summary>
-                <p align="center">
-                  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/10classes.png">
-                </p>
-                <div align="center" style="font-weight: bold;">
-                  Smooth optimization procedure in 600 epochs
-                </div>
-              </details>
-            </li>
-    </details>
-
+      </p>
+      <p>
+        Advantages of our implementation:
+      </p>
+      <ul>
+        <li>
+          <details>
+            <summary>Keras-like</summary>
+            <pre><code>import numpy_keras as keras</code></pre>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>Autograd Integration</summary>
+            <pre><code>import numpy_keras.autograd as keras</code></pre>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>Good Performance on MNIST</summary>
+            <p align="center">
+              <img src="https://github.com/XavierSpycy/NumPy-Keras/blob/main/figures/history.png" width="20%" height="auto">
+            <p>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>Good Performance on a Complex Dataset</summary>
+            <p align="center">
+              <img src="https://github.com/XavierSpycy/NumPy-Keras/blob/main/figures/assn_output.png" width="20%" height="auto">
+            <p>
+          </details>
+  </details>
   <details>
     <summary>
       <h3>🌟Non-negative Matrix Factorization using NumPy<a href="https://github.com/XavierSpycy/NumPyNMF">&#x2197;</a></h3>
