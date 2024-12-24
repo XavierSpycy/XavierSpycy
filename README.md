@@ -162,7 +162,7 @@ graph TD;
           <details>
             <summary>Good Performance on MNIST</summary>
             <p align="center">
-              <img src="https://github.com/XavierSpycy/NumPy-Keras/blob/main/figures/history.png" width="20%" height="auto">
+              <img src="https://github.com/XavierSpycy/NumPy-Keras/blob/main/figures/history.png" width="100%" height="auto">
             <p>
           </details>
         </li>
@@ -170,7 +170,7 @@ graph TD;
           <details>
             <summary>Good Performance on a Complex Dataset</summary>
             <p align="center">
-              <img src="https://github.com/XavierSpycy/NumPy-Keras/blob/main/figures/assn_output.png" width="20%" height="auto">
+              <img src="https://github.com/XavierSpycy/NumPy-Keras/blob/main/figures/assn_output.png" width="100%" height="auto">
             <p>
           </details>
   </details>
