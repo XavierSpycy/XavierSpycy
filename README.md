@@ -183,7 +183,7 @@ graph TD;
       Dense(units=2, activation='relu', init='kaiming_normal', init_params={'mode': 'in'}),
       Dense(units=1, activation='tanh', init='xavier_uniform')
   ]
-  mlp = MultilayerPerceptron(layers)</code></pre>
+mlp = MultilayerPerceptron(layers)</code></pre>
                 </p>
               </details>
             </li>
@@ -191,9 +191,8 @@ graph TD;
               <details>
                 <summary>Stable to train</summary>
                 <p>
-                  <pre><code class="language-python">mlp.compile(optimizer='Adam',
-              metrics=['MeanSquareError'])
-  mlp.fit(X, y, epochs=3, batch_size=8, use_progress_bar=True)</code></pre>
+                  <pre><code class="language-python">mlp.compile(optimizer='Adam', metrics=['MeanSquareError'])
+mlp.fit(X, y, epochs=3, batch_size=8, use_progress_bar=True)</code></pre>
                 </p>
                 <p align="center">
                   <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/toy_loss.png">
