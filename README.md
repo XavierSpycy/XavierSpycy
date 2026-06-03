@@ -140,12 +140,17 @@ graph TD;
       Photo by <a href="https://unsplash.com/@googledeepmind?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Google DeepMind</a> on <a href="https://unsplash.com/photos/LaKwLAmcnBc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     </p>
     <details>
+      <summary id="star-self-developed-library-using-numpy">
+        <h3>🌟Self-Developed Library using NumPy</h3><a href="https://github.com/XavierSpycy/MLForce">&#x2197;</a>
+      </summary>
+      <p>
+        My NumPy-based projects have been successfully integrated into my own open-source Python library, named <a href="https://pypi.org/project/mlforce/"><code>MLForce</code></a>. This library is also readily accessible on the <a href="https://pypi.org/project/mlforce">PyPI Community</a>.
+      </p>
+    </details>
+    <details>
       <summary>
         <h3>🌟Multilayer Perceptron from Scratch using NumPy<a href="https://github.com/XavierSpycy/NumPyMultilayerPerceptron">&#x2197;</a></h3>
       </summary>
-      <p align="center">
-        <img src="https://github.com/XavierSpycy/NumPy-Keras/blob/main/figures/numpy_keras.jpg" width="20%" height="auto">
-      </p>
       <p>
         A robust implementation of multilayer perceptrons, entirely built upon the powerful NumPy library.
       </p>
@@ -184,13 +189,13 @@ mlp = MultilayerPerceptron(layers)</code></pre>
             </li>
             <li>
               <details>
-                <summary>Stable to train (Trained on MNIST)</summary>
+                <summary>Stable to train</summary>
                 <p>
                   <pre><code class="language-python">mlp.compile(optimizer='Adam', metrics=['MeanSquareError'])
 mlp.fit(X, y, epochs=3, batch_size=8, use_progress_bar=True)</code></pre>
                 </p>
                 <p align="center">
-                  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/history.png">
+                  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/toy_loss.png">
                 </p>
                 <div align="center" style="font-weight: bold;">
                   Loss
@@ -203,7 +208,7 @@ mlp.fit(X, y, epochs=3, batch_size=8, use_progress_bar=True)</code></pre>
                   Great results
                 </summary>
                 <p align="center">
-                  <img src="https://github.com/XavierSpycy/NumPy-Keras/blob/main/figures/db_adam.png">
+                  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/toy_decision_boundary.png">
                 </p>
                 <div align="center" style="font-weight: bold;">
                   Decision boundary
@@ -216,7 +221,7 @@ mlp.fit(X, y, epochs=3, batch_size=8, use_progress_bar=True)</code></pre>
                   Capability of dealing with complex datasets (10 classes, 128 features, 50,000 samples)
                 </summary>
                 <p align="center">
-                  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/assn_output.png">
+                  <img src="https://github.com/XavierSpycy/NumPyMultilayerPerceptron/blob/main/figures/10classes.png">
                 </p>
                 <div align="center" style="font-weight: bold;">
                   Smooth optimization procedure in 600 epochs
